@@ -1,0 +1,31 @@
+{
+  "editor": {
+    "states": "[]"
+  },
+  "homepage": {
+    "note": "\"\""
+  },
+  "palette": {
+    "recents": "[]"
+  },
+  "tabs": {
+    "all": "[]"
+  },
+  "tags": {
+    "current": "[\"__NOTABLE_NOTES_ALL__\"]",
+    "expanded": "[\"__NOTABLE_NOTES__\",\"Notebooks\",\"__NOTABLE_TAGS__\",\"Templates\"]"
+  },
+  "multiEditor": {
+    "selected": "[]"
+  },
+  "preview": {
+    "states": "[[\"help-cheatsheet\",{\"id\":\"help-cheatsheet\",\"scrollTop\":0,\"scrollLeft\":0}],[\"help-commands\",{\"id\":\"help-commands\",\"scrollTop\":0,\"scrollLeft\":0}]]"
+  },
+  "search": {
+    "query": "\"\"",
+    "recents": "[\"is:favorited\"]"
+  },
+  "spellChecker": {
+    "overrides": "[]"
+  }
+}
