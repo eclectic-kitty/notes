@@ -1,8 +1,8 @@
 ---
-tags: [CART 210]
 title: Week 3 - In Class - New Media Reader Presentations
-created: '2023-01-23T18:41:44.018Z'
-modified: '2023-01-23T22:17:37.265Z'
+tags: [CART 210]
+created: 2023-01-23T18:41:44.018Z
+modified: 2023-01-23T22:17:37.265Z
 ---
 
 # Week 3 - In Class - New Media Reader Presentations

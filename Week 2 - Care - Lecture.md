@@ -1,8 +1,8 @@
 ---
-tags: [FFAR 250]
 title: Week 2 - Care - Lecture
-created: '2023-01-20T17:22:47.331Z'
-modified: '2023-01-27T18:14:54.905Z'
+tags: [FFAR 250]
+created: 2023-01-20T17:22:47.331Z
+modified: 2023-01-27T18:14:54.905Z
 ---
 
 # Week 2 - Care - Lecture

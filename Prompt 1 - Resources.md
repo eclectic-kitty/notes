@@ -1,8 +1,8 @@
 ---
-tags: [FFAR 250]
 title: Prompt 1 - Resources
-created: '2023-01-27T17:19:43.586Z'
-modified: '2023-01-27T23:07:55.222Z'
+tags: [FFAR 250]
+created: 2023-01-27T17:19:43.586Z
+modified: 2023-01-27T23:07:55.222Z
 ---
 
 Prompt 1 - Resources

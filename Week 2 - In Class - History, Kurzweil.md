@@ -1,8 +1,8 @@
 ---
+title: Week 2 - In Class - History, Kurzweil
 tags: [CART 210]
-title: 'Week 2 - In Class - History, Kurzweil'
-created: '2023-01-16T18:36:51.616Z'
-modified: '2023-01-23T20:28:00.714Z'
+created: 2023-01-16T18:36:51.616Z
+modified: 2023-01-23T20:28:00.714Z
 ---
 
 # Week 2 - In Class - History, Kurzweil

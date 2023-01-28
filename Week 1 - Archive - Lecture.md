@@ -1,8 +1,8 @@
 ---
-tags: [FFAR 250]
 title: Week 1 - Archive - Lecture
-created: '2023-01-13T17:28:41.550Z'
-modified: '2023-01-27T17:19:11.596Z'
+tags: [FFAR 250]
+created: 2023-01-13T17:28:41.550Z
+modified: 2023-01-27T17:19:11.596Z
 ---
 
 # Week 1 - Archive - Lecture

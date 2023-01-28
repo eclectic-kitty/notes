@@ -1,8 +1,8 @@
 ---
-tags: [Cart 212]
 title: Week 1 - Musique Concrete
-created: '2023-01-12T14:32:59.722Z'
-modified: '2023-01-12T15:23:50.174Z'
+tags: [Cart 212]
+created: 2023-01-12T14:32:59.722Z
+modified: 2023-01-12T15:23:50.174Z
 ---
 
 # Week 1 - Musique Concrete

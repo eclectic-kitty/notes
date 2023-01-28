@@ -1,8 +1,8 @@
 ---
-tags: [CART 210]
 title: presentation notes
-created: '2023-01-23T20:48:06.789Z'
-modified: '2023-01-23T22:03:42.589Z'
+tags: [CART 210]
+created: 2023-01-23T20:48:06.789Z
+modified: 2023-01-23T22:03:42.589Z
 ---
 
 # presentation notes

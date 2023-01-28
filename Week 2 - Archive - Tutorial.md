@@ -1,8 +1,8 @@
 ---
-tags: [FFAR 250]
 title: Week 2 - Archive - Tutorial
-created: '2023-01-20T21:20:21.472Z'
-modified: '2023-01-27T18:15:02.551Z'
+tags: [FFAR 250]
+created: 2023-01-20T21:20:21.472Z
+modified: 2023-01-27T18:15:02.551Z
 ---
 
 # Week 2 - Archive - Tutorial

@@ -1,8 +1,8 @@
 ---
-tags: [FFAR 250]
 title: Week 3 - Care - Tutorial
-created: '2023-01-27T21:15:44.220Z'
-modified: '2023-01-27T21:56:05.491Z'
+tags: [FFAR 250]
+created: 2023-01-27T21:15:44.220Z
+modified: 2023-01-27T21:56:05.491Z
 ---
 
 # Week 3 - Care - Tutorial
