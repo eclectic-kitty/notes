@@ -2,7 +2,7 @@
 title: Week 2 - Reading - Bill Viola
 tags: [CART 210]
 created: 2023-01-22T19:47:43.150Z
-modified: 2023-01-23T20:15:26.048Z
+modified: 2023-01-29T02:56:51.305Z
 ---
 
 # Week 2 - Reading - Bill Viola
@@ -79,7 +79,7 @@ video cameras are always seeing, if not recording
 ### digital
 
 Data space is **fluid, temporal**
-holistic
+**holistic**
 whole structures exist simultaneously
 As opposed to **hard** copies
 which are fixed in time
@@ -87,9 +87,10 @@ which are fixed in time
 
 On digital, video has a **structure**
 no longer seeing 1 frame
-like poetry has the placement of words on paper
-or music has a score
+like poetry has the placement of words on **paper**
+or music has a **score**
 All visible at once
+**structure**
 
 ### knowledge
 is considered to be additive
@@ -125,7 +126,7 @@ AK Coomaraswamy
 Decadent art
 not felt or energized
 only denotes
-no correspondance between form and representation
+no correspondence between form and representation
 true art =/ compete with real world
 *not sure what this is saying
 seems a little contradictory? maybe?
@@ -144,6 +145,7 @@ Art as **diagram**
 Renaisance = turning point in western art
 Data space, structuralist ideas somewhat preserved
 gallery space, palaces, cathedrals, physical storage
+**space = structure**
 
 ## digital + video art
 
@@ -151,16 +153,16 @@ interactive art pieces
 **Unique path** through work
 no more **master** edit
 no more set speed
-limitations: skill of producers and users, not tools
+rasio = transmission of intelligence
+video is getting intelligence
 *Is the amount of work necessary achievable?
 We still think in terms of a specific order
 Beginning, memory, conceptualization of experience*
 
 away from temporal **piece-by-piece** approach of program
 camera, monocular, tunnel-vision focus
-spatial
-total-field approach
-**carving out**
+towards spatial, total-field approach
+**carving out** 
 conceptual brain structures
 
 ## structures 
@@ -169,7 +171,7 @@ Recalling mnemo-technics
 Tantric doctrine
 energy diagram:
 mantra and yantra
-gemoetry and sound
+geometry and sound
 **all equal**
 data can be represented multiple ways
 
@@ -193,9 +195,12 @@ spaghetti
 getting lost within space
 deeper into mind
 **contradictory**
+irrelevant and relevant
+all equal and all not equal
 
 Fashion designer example
 Using computer to:
+
 - sketch
 - bring up historical examples
 - patterns
@@ -221,8 +226,6 @@ Viola thinks further investigation is required in:
 
 We must turn towards ourselves
 develop selves
-must precede development of tech
-or we'll go nowhere
 There **will** be **condominiums** in digital space
 (cable TV)
 Applications of tools are reflections of users
@@ -239,5 +242,16 @@ inflated world-view
 
 ## Reflections, connections, opinions
 
-I 
+Things I don't get:
 
+gaps in memory being interesting places of shadow
+How does this connect to his whole thing about seeing the whole of something
+And why does he say seeing the entirety of something is uninteresting then?
+
+
+Digital allowing the whole of something to exist before it is made
+What do you mean a wordprocessor allows you to edit, correct, the whole letter before it is typed out???
+Is it because the potential exists???
+How are difital systems holistic? how do they think in terms of whole structures?
+Is it just in terms of a different thinking? ie revealing a whole rather than building up?
+How is this different than chiseling in stone? I feel like I've hears the same concept applied there
