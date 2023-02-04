@@ -1,11 +1,11 @@
 ---
-title: Week 3 - Home - Lecture
+title: Home - Week 3 - Lecture
 tags: [FFAR 250]
 created: 2023-01-27T17:18:34.011Z
-modified: 2023-01-27T18:44:50.689Z
+modified: 2023-02-03T18:15:52.349Z
 ---
 
-# Week 3 - Home - Lecture
+# Home - Week 3 - Lecture
 
 What food most reminds you of home?
 

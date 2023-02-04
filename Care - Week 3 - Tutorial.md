@@ -1,11 +1,11 @@
 ---
-title: Week 3 - Care - Tutorial
+title: Care - Week 3 - Tutorial
 tags: [FFAR 250]
 created: 2023-01-27T21:15:44.220Z
-modified: 2023-01-27T21:56:05.491Z
+modified: 2023-02-03T18:15:46.849Z
 ---
 
-# Week 3 - Care - Tutorial
+# Care - Week 3 - Tutorial
 
 ## The Art I Saw This Week - Skinamarink
 

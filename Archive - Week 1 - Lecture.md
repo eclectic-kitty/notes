@@ -1,11 +1,11 @@
 ---
-title: Week 1 - Archive - Lecture
+title: Archive - Week 1 - Lecture
 tags: [FFAR 250]
 created: 2023-01-13T17:28:41.550Z
-modified: 2023-01-27T17:19:11.596Z
+modified: 2023-02-03T18:15:24.655Z
 ---
 
-# Week 1 - Archive - Lecture
+# Archive - Week 1 - Lecture
 
 ## Keywords; a reminder
 

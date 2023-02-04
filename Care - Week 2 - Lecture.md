@@ -1,11 +1,11 @@
 ---
-title: Week 2 - Care - Lecture
+title: Care - Week 2 - Lecture
 tags: [FFAR 250]
 created: 2023-01-20T17:22:47.331Z
-modified: 2023-01-27T18:14:54.905Z
+modified: 2023-02-03T18:15:40.868Z
 ---
 
-# Week 2 - Care - Lecture
+# Care - Week 2 - Lecture
 
 ## Garden of Earthly Delights
 

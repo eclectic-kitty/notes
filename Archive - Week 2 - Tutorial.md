@@ -1,11 +1,11 @@
 ---
-title: Week 2 - Archive - Tutorial
+title: Archive - Week 2 - Tutorial
 tags: [FFAR 250]
 created: 2023-01-20T21:20:21.472Z
-modified: 2023-01-27T18:15:02.551Z
+modified: 2023-02-03T18:15:31.414Z
 ---
 
-# Week 2 - Archive - Tutorial
+# Archive - Week 2 - Tutorial
 
 ## Art I saw over the break
 I saw a horror movie called Men, directed by Alex Garland and starring Jessie Buckley
