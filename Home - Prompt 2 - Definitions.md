@@ -2,7 +2,7 @@
 title: Home - Prompt 2 - Definitions
 tags: [FFAR 250]
 created: 2023-02-03T04:44:40.926Z
-modified: 2023-02-03T22:35:24.016Z
+modified: 2023-02-04T05:09:12.412Z
 ---
 
 # Home - Prompt 2 - Definitions
@@ -104,4 +104,6 @@ The body is a site of interfaces between our selves and the external
 
 The body is a site onto which we manifest/are mapped, allowing us to interface in excruciating/ecstatic honesty with those around us.
 
-The body is 
+The body is the site of our physical manifestation, where we can interface in excruciating/ecstatic honesty with those around us.
+
+The body is our self distilled down to an undeniable site of flesh and fluids, where we provide shelter for countless organisms and interface in excruciating/ecstatic honesty with other/our selves.
