@@ -1,11 +1,11 @@
 ---
-title: Week 1 - Readings - Turing & Lovelace
+title: Week 2 - Readings - Turing & Lovelace
 tags: [CART 210]
 created: 2023-01-16T15:35:56.398Z
-modified: 2023-01-28T16:13:31.157Z
+modified: 2023-02-06T15:51:34.043Z
 ---
 
-# Week 1 - Readings - Turing & Lovelace
+# Week 2 - Readings - Turing & Lovelace
 
 ## Turing
 

@@ -1,11 +1,11 @@
 ---
-title: Week 2 - Reading - Bill Viola
+title: Week 3 - Reading - Bill Viola
 tags: [CART 210]
 created: 2023-01-22T19:47:43.150Z
-modified: 2023-01-29T02:56:51.305Z
+modified: 2023-02-06T15:51:30.725Z
 ---
 
-# Week 2 - Reading - Bill Viola
+# Week 3 - Reading - Bill Viola
 
 ## Introduction
 
