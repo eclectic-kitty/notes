@@ -1,8 +1,9 @@
 ---
 title: presentation notes
 tags: [CART 210]
+deleted: true
 created: 2023-01-23T20:48:06.789Z
-modified: 2023-01-23T22:03:42.589Z
+modified: 2023-02-06T18:52:31.851Z
 ---
 
 # presentation notes
