@@ -1,11 +1,11 @@
 ---
-title: Week 5 - In Class -
+title: Week 5 - In Class - I dunno! Media?
 tags: [CART 210]
 created: 2023-02-06T18:38:49.430Z
-modified: 2023-02-06T22:07:04.985Z
+modified: 2023-02-10T17:28:14.560Z
 ---
 
-# Week 5 - In Class - 
+# Week 5 - In Class - I dunno! Media?
 
 ## Presentations
 
