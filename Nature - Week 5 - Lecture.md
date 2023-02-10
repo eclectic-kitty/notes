@@ -1,7 +1,8 @@
 ---
 title: Nature - Week 5 - Lecture
+tags: [FFAR 250]
 created: 2023-02-10T17:28:24.204Z
-modified: 2023-02-10T18:46:08.075Z
+modified: 2023-02-10T19:23:45.893Z
 ---
 
 # Nature - Week 5 - Lecture
