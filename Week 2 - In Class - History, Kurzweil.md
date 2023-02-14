@@ -2,7 +2,7 @@
 title: Week 2 - In Class - History, Kurzweil
 tags: [CART 210]
 created: 2023-01-16T18:36:51.616Z
-modified: 2023-01-23T20:28:00.714Z
+modified: 2023-02-13T21:33:37.185Z
 ---
 
 # Week 2 - In Class - History, Kurzweil
@@ -98,7 +98,7 @@ informational entropy, how much noise is in a signal? compensating for it
 measuring possibilities of binary choices, bits?
 
 ### Information, entropy, communication
-Information teory part 12: Claude Shannon's inrofrmation entropy video
+Information theory part 12: Claude Shannon's information entropy video
 Two machines outputting 1st 4 letters from alphabet
 One is random, one is according to probabilities 50, 12.5, 12.5, 25
 Which one produces more info?
@@ -124,7 +124,7 @@ noise?
 information must not be confused with meaning
 information = logarithm of the number of choices
 Does the internet or the word yes contain more information?
-Trick question, choice containse the information
+Trick question, choice contains the information
 how do we store, then access a bunch of information, what it is does not matter
 
 language is statistical: leads to modern AI, simple statistical connections so numerous that it has/displays meaning
