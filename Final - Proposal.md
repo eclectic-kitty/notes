@@ -1,10 +1,11 @@
 ---
-title: Final
+title: Final - Proposal
+tags: [FFAR 250]
 created: 2023-02-28T22:12:10.966Z
-modified: 2023-03-03T02:31:40.809Z
+modified: 2023-03-03T18:56:50.528Z
 ---
 
-# Final
+# Final - Proposal
 
 Keyword combination: "framing the body"
 
@@ -16,7 +17,7 @@ Pieces:
 - Anatomy, videogame, Kitty Horrorshow
 	- Anatomy presents a house that has grown its own body after years of abandonment
 - Human Botany, film, Four Chambers
-	- Human Botany is a prnographic film that presents body parts almost as scientific footage of 
+	- Human Botany is a pOrnographic film that presents body parts almost as scientific footage of 
 
 Resources:
 - Pouvoirs de l'horreur, Julia Kristeva
