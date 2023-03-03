@@ -1,10 +1,11 @@
 ---
-title: Week 7 - Writing exercise - Ideation
+title: Week 7 - Writing exercise
+tags: [CART 210]
 created: 2023-02-20T21:52:00.286Z
-modified: 2023-02-20T22:30:26.628Z
+modified: 2023-03-03T18:54:08.975Z
 ---
 
-# Week 7 - Writing exercise - Ideation
+# Week 7 - Writing exercise
 
 # Inventory - How am I write now
 - Jasmine
