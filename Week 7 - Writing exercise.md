@@ -1,8 +1,7 @@
 ---
 title: Week 7 - Writing exercise
-tags: [CART 210]
-created: 2023-02-20T21:52:00.286Z
-modified: 2023-03-03T18:54:08.975Z
+created: 2023-03-03T18:54:38.308Z
+modified: 2023-03-03T18:54:38.308Z
 ---
 
 # Week 7 - Writing exercise
