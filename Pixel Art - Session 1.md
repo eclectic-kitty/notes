@@ -1,10 +1,10 @@
 ---
-title: Session 1
+title: Pixel Art - Session 1
 created: 2023-01-28T19:25:03.928Z
-modified: 2023-01-28T20:05:51.640Z
+modified: 2023-02-25T22:56:56.056Z
 ---
 
-# Session 1
+# Pixel Art - Session 1
 
 Pixel art is about **control** and **limitation**
 Placing pixels in specific spots
