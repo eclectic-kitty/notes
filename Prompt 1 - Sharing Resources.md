@@ -1,11 +1,11 @@
 ---
-title: Care - Prompt 1 - Sharing Resources
+title: Prompt 1 - Sharing Resources
 tags: [FFAR 250]
 created: 2023-01-27T17:19:43.586Z
-modified: 2023-02-03T18:15:13.778Z
+modified: 2023-03-03T22:25:04.295Z
 ---
 
-# Care - Prompt 1 - Sharing Resources
+# Prompt 1 - Sharing Resources
 
 Aurora Becerra Granados - FFAR 250 - Tutorial Q - Allison Peacock
 
