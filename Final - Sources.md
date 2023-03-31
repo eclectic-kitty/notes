@@ -2,7 +2,7 @@
 title: Final - Sources
 tags: [CART 210]
 created: 2023-03-04T02:49:02.706Z
-modified: 2023-03-05T15:34:18.529Z
+modified: 2023-03-27T19:41:24.732Z
 ---
 
 # Final - Sources
@@ -15,6 +15,7 @@ Creative works
 	- Floral Shoppe - Macintosh Plus
 	- Mall edits of songs (ex: https://youtu.be/D__6hwqjZAs)
 	- In Rainbow Roads
+	- Top Picks For You - Injury Reserve
 - Games
 	- Kentucky Route Zero - Cardboard Computer
 		- (particularly Xanadu section)
@@ -28,3 +29,10 @@ Creative works
 - Other
 	- mouchette.org - Martine Neddam
 	- Haunted videogame creepypastas (ex. Ben Drowned)
+
+Theoretical works
+- In Defense of the Poor Image - Hito Steyerl
+- The Work of Art in the Age of Mechanical Reproduction - Benjamin Walter
+- Ghosts of my Life - Mark Fisher
+- Babbling Corpse - Grafton Tanner
+- Svetlana Boym - The Future of Nostalgia

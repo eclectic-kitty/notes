@@ -1,11 +1,11 @@
 ---
-title: Week 8 - In-Class - Ontology &
+title: Week 8 - In-Class -
 tags: [CART 210]
 created: 2023-03-06T20:07:00.267Z
-modified: 2023-03-06T20:53:48.551Z
+modified: 2023-03-24T19:49:21.215Z
 ---
 
-# Week 8 - In-Class - Ontology & 
+# Week 8 - In-Class -
 
 ## Ontology
 
