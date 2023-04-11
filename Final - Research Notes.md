@@ -2,10 +2,27 @@
 title: Final - Research Notes
 tags: [FFAR 250]
 created: 2023-03-29T21:00:52.219Z
-modified: 2023-04-01T00:37:31.563Z
+modified: 2023-04-10T23:29:11.101Z
 ---
 
 # Final - Research Notes
+
+## Anatomy
+Hill House quote: "No live organism can continue for long to exist sanely under conditions of absolute reality..." This seems to me to relate to abjection? Abjection seems at least in part to be about people confronted with the utter reality of things, of their conception of self and other. They're dreams we tell ourselves. 
+The house loses conception of itself and begins to bleed into itself (recursive) after faced with a radical reshaping of its reality, its conception of self, of being seen as object.
+
+bedroom, trust, bringing attention to our relationship, reliance
+
+shutting off, returning, jouissance and wandering???
+
+dissection and vivisection, not understanding the aliveness of what we interact with
+difference between sympathy and empathy. The game starts from the premise that we see our homes as reflections of ourselves, but crucially, not as their own beings. They are ours to dissect, to poke and prod as we please
+
+house rebels by changing its anatomy to reflect us less and less, it creates impossible spaces, changes to become less useful for us, and ultimately devour us.
+
+It dreams of us, is haunted by us, longs for further connection, to return to a time when its borders were better defined
+
+## 
 
 ## Film Bodies - Linda Williams
 #### P1
