@@ -2,12 +2,78 @@
 title: Final - Research Notes
 tags: [FFAR 250]
 created: 2023-03-29T21:00:52.219Z
-modified: 2023-04-10T23:29:11.101Z
+modified: 2023-04-13T00:55:02.112Z
 ---
 
 # Final - Research Notes
 
-## Anatomy
+## Frames:
+ 
+### Main
+
+#### Environment
+Place, utility, control
+- what can a body be?
+- what do we care for?
+
+#### Change
+Change, influence, lack of control
+- what can we be?
+- how do others affect us?
+
+#### Science
+Study, beauty, science, interface
+- how do we view ourselves?
+- how do we care for ourselves?
+
+### Abject / Barriers
+#### Anatomy
+- self / environment
+	- house with teeth, sinew, etc.
+- also inside / outside
+	- loss of control & safety
+	- spaces not meant for humans
+#### Annihilation
+- self / others
+	- plant people, shared tattoo, voice in bear, eel intestines
+	- again, loss of control, who am I?
+#### Human Botany
+- self / object (of stufy)
+	- hair, liquid, texture
+	- Not a "perfect", far away view
+- self / others
+	- lack of faces, distinction between people
+
+### Genre & Emotions
+
+#### Horror - fear
+- Typically, one empathizes and feels the fear of the human protagonist, especially in games where you *are* the protagonist
+- Here though, one begins to empathize with the house, and it is the house that we actually *see* in spectacular ecstasy
+
+#### Horror / melodrama - fear & sadness, peace
+
+#### Porn - lust
+- breakdown of who is who, a lot of masturbation
+	- This strengthens 3d quality of bodies of excess, mimicry, empathizing with who we see, not simply lusting after someone else's features, but our own
+	- Who do we see with this much detail? only our partners... and ourselves
+- Usually grotesque or abject detail, juxtaposed with unquestionably pretty details of plants
+	- invites us to see these details as objects of interest and beauty
+
+**Further research for Human Botany**
+How do our own body image issues treat how we see others and vice-versa?
+
+### Main Ideas / Changes in Audience
+
+#### Annihilation:
+Change is scary, but necessary to avoid tragedy, to maintain connections, to grow, relationships change you
+
+#### Anatomy:
+Consider your connections more, treat others with respect, don't think you're the main character 
+
+#### Human Botany:
+View your own body & sexual pleasure with the same respect and awe you would give a beautiful flower and the processes by which they reproduce
+
+## Anatomy Thots
 Hill House quote: "No live organism can continue for long to exist sanely under conditions of absolute reality..." This seems to me to relate to abjection? Abjection seems at least in part to be about people confronted with the utter reality of things, of their conception of self and other. They're dreams we tell ourselves. 
 The house loses conception of itself and begins to bleed into itself (recursive) after faced with a radical reshaping of its reality, its conception of self, of being seen as object.
 
@@ -22,8 +88,6 @@ house rebels by changing its anatomy to reflect us less and less, it creates imp
 
 It dreams of us, is haunted by us, longs for further connection, to return to a time when its borders were better defined
 
-## 
-
 ## Film Bodies - Linda Williams
 #### P1
 What is gross often disagreed upon
@@ -36,6 +100,7 @@ gratouitous sex, violence, emotion
 Three **body** genres
 porn, horror, melodrama
 
+Melodrama, broad
 **"stylistic and/or emotional excess"**
 "contrast to **'dominant'** modes of realistic, goal-oriented narrative"
 "lapses in realism"
