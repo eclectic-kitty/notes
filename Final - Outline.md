@@ -1,8 +1,9 @@
 ---
 title: Final - Outline
 tags: [FFAR 250]
+favorited: true
 created: 2023-04-10T20:27:34.621Z
-modified: 2023-04-13T00:54:14.615Z
+modified: 2023-04-14T03:14:46.549Z
 ---
 
 # Final - Outline
@@ -25,29 +26,68 @@ The works I have chosen all reframe bodies as abject, breaking down and decompos
 ### Thesis
 Consider your connections more, treat others with respect, don't think you're the main character 
 
-### Role of body
+### Frame: place
+- What do we consider to be embodied?
+- What do we care for?
+
+Do we consider the systems we are a part of and what impact we have?
+How much do we consider and care for the places we exist in and the objects around us? 
+How does all this impact us?
+
+Illuminates issues of control, consideration, and utility of bodies
+
+### Abject 
+Barrier: **self / environment**
+- What "other"s do we rely on?
+
+### Thots
 The abject body of something close to us but inhuman, breaks barriers of what can be human, then has us empathize with the pain and fear of the house
+
+## Connections
+Capacity to accept change
+Consideration of impact on others
+Greater focus on external connections
 
 ## Annihilation
 ### Thesis
 Change is scary, but necessary to avoid tragedy, to maintain connections, to grow, relationships change you
 
-### Frame
-Body as a site of change
+### Frame: change
+- What is our 'self'?
+- How much influence do others have?
 
-#### Questions
-- Who are we?
-- Do we have control over our bodies?
-- What influence do others have on us?
+Are we really as static as we believe?
+Why do we idolize a perfect nonexistant state of youth?
+How much control can we truly exercise on our own bodies?
+Can it 
 
-### What role does the body play?
+### Abject
+Barrier: **self / others**
+
+I don't know how to phrase it 
+
+### Thots
 The film presents bodies undergoing abject changes, initially in horrifying, tragic and beautiful manners
 
 To a certain extent, more internal, about your relationships with others and your own pain, change, etc.
 
+## Connections
+Learning to love ourselves and "imperfections"
+Valuing connections and understanding impact on others
+Viewing bodies as objects
+
 ## Human Botany
 ### Thesis
-View your own body & sexual pleasure with the same respect and awe you would give a beautiful flower and the processes by which they reproduce
+View your own body & sexual pleasure with the same respect, beauty, and level-headedness you would a flower, a specimen.
+
+### Frame: science
+- What standards do we hold ourselves to?
+- What associations do certain features or actions have?
+
+Are our bodies not living beings like any other? Beautiful, yes, but not any more important or as important to control.
+
+### Abject
+
 
 ## Conclusion
 

@@ -1,8 +1,9 @@
 ---
 title: Final - Research Notes
 tags: [FFAR 250]
+favorited: true
 created: 2023-03-29T21:00:52.219Z
-modified: 2023-04-13T00:55:02.112Z
+modified: 2023-04-14T03:07:30.309Z
 ---
 
 # Final - Research Notes
@@ -38,7 +39,7 @@ Study, beauty, science, interface
 	- plant people, shared tattoo, voice in bear, eel intestines
 	- again, loss of control, who am I?
 #### Human Botany
-- self / object (of stufy)
+- self / object (of study)
 	- hair, liquid, texture
 	- Not a "perfect", far away view
 - self / others

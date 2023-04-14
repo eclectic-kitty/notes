@@ -1,9 +1,8 @@
 ---
 title: Week 9 - ChatGPT Writing Exercise - Donna Haraway
 tags: [CART 210]
-favorited: true
 created: 2023-03-13T21:01:55.291Z
-modified: 2023-03-24T19:49:04.420Z
+modified: 2023-04-14T01:42:45.644Z
 ---
 
 # Week 9 - ChatGPT Writing Exercise - Donna Haraway
