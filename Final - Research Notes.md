@@ -3,7 +3,7 @@ title: Final - Research Notes
 tags: [FFAR 250]
 favorited: true
 created: 2023-03-29T21:00:52.219Z
-modified: 2023-04-14T03:07:30.309Z
+modified: 2023-04-14T20:59:20.382Z
 ---
 
 # Final - Research Notes
@@ -89,13 +89,36 @@ house rebels by changing its anatomy to reflect us less and less, it creates imp
 
 It dreams of us, is haunted by us, longs for further connection, to return to a time when its borders were better defined
 
+## Powers of Horror Quotes
+
+#### Pg 3
+"... but since the food is not an other for me, who am only in their desire, ... I abject myself within the same motion that I claim to establish myself"
+
+"I am in the process of becoming another at the expense of my own death"
+
+"A wound ... does not signify death. In the presence of signified death ... I would understand, react or accept. No, as in true theatre, without makeup or masks, refuse and corpses show me what I permanently thrust aside in order to live. ... What life withstands"
+
+#### Pg 4
+"The corpse ... is a border that has encroached upon everything. It is no longer I who expel, 'I' is expelled"
+
+"The border has become an object"
+
+"It is death infecting life. Abject. It is something rejected from which one does not part
+
+" It is not ... that causes abjection but what disturbs identity, system, order. What does not respect borders, positions, rules."
+
+#### Pg 5
+"All abjection is in fact recognition of the *want* on which any being, meaning, language, or desire is founded"
+
+"... nothing is familiar, not even the shadow of a memory" abjection != uncanniness
+
 ## Film Bodies - Linda Williams
 #### P1
 What is gross often disagreed upon
 "gross" often invoked to exclude things, not analyse
 "sensational", no purpose other than to excite
 
-### P2 - excess
+#### P2 - excess
 kissing movies, body horror, sad movies
 gratouitous sex, violence, emotion
 Three **body** genres
@@ -107,7 +130,7 @@ Melodrama, broad
 "lapses in realism"
 "primal or infantile emotions"
 
-### P3 - 3 features
+#### P3 - 3 features
 3 Pertinent features of **bodily** excess
 - spectacle
 	- **loss of control** of body
@@ -129,7 +152,7 @@ Melodrama, broad
 	- hence, gratouitous, excessive, etc.
 	- Success measured in response (p4)
 
-### P4 - manipulation
+#### P4 - manipulation
 Lack of easthetic distance, **manipulated**
 (tear jerker)
 Mary Ann Doane "textual rape, **targeted** female viewer, feminized through pathos"
@@ -147,18 +170,18 @@ is excess simply marked by woman, fluids, mimicry? (p5)
 How do these bodily displays relate to one another? (p5)
 
 
-### P5
+#### P5
 
 
-### P7
+#### P7
 
 "Identification is neither fixed, nor entirely passive"
 
-### P8
+#### P8
 
 "The more useful lesson might be to see what this new fluidity and oscillation permits in the construction of feminine viewing pleasures once thought notn to exist at all"
 
-### P9
+#### P9
 
 "Fantasy is ... a setting for desire, a place where conscious and unconscious, self and other, part and whole meet"
 

@@ -3,7 +3,7 @@ title: Final - Outline
 tags: [FFAR 250]
 favorited: true
 created: 2023-04-10T20:27:34.621Z
-modified: 2023-04-14T03:14:46.549Z
+modified: 2023-04-15T02:32:53.042Z
 ---
 
 # Final - Outline
@@ -40,6 +40,9 @@ Illuminates issues of control, consideration, and utility of bodies
 Barrier: **self / environment**
 - What "other"s do we rely on?
 
+### Body genre
+The body in ecstasy and undergoing changes, which we are usually meant to empathize with, is in this case the house
+
 ### Thots
 The abject body of something close to us but inhuman, breaks barriers of what can be human, then has us empathize with the pain and fear of the house
 
@@ -64,12 +67,14 @@ Can it
 ### Abject
 Barrier: **self / others**
 
-I don't know how to phrase it 
+I don't know how to phrase it
 
 ### Thots
-The film presents bodies undergoing abject changes, initially in horrifying, tragic and beautiful manners
+The film presents bodies undergoing abject changes, initially in horrifying and tragic fashion
 
-To a certain extent, more internal, about your relationships with others and your own pain, change, etc.
+Annihilation grapples with the attraction to what is abject, with Freud's death-drive, self-destruction
+
+Ultimately, we must stop trying to control change, annihilation is inevitable, but something new always comes from it
 
 ## Connections
 Learning to love ourselves and "imperfections"
@@ -87,7 +92,9 @@ View your own body & sexual pleasure with the same respect, beauty, and level-he
 Are our bodies not living beings like any other? Beautiful, yes, but not any more important or as important to control.
 
 ### Abject
-
+self / object
+- The breakdown here allows audience to see themselves through the lens of an object
+- Legitimizes and allows for a certain neutrality
 
 ## Conclusion
 
