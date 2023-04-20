@@ -2,7 +2,7 @@
 title: Final - Research
 tags: [CART 210]
 created: 2023-04-01T00:37:40.292Z
-modified: 2023-04-17T03:40:50.890Z
+modified: 2023-04-18T19:46:34.712Z
 ---
 
 # Final - Research
@@ -11,10 +11,14 @@ modified: 2023-04-17T03:40:50.890Z
 
 ### *There's no time here, not any more*
 
+
+#### Quotes
 prophetic for a general condition: in which life continues, but time has somehow stopped.
 
 ### The slow cancellation of the future
 
+
+#### Quotes
 this stasis has been buried, interred behind a superficial frenzy of ‘newness’, of perpetual movement.
 
 slow cancellation of the future [that] got underway in the 1970s and 1980
@@ -71,6 +75,8 @@ infrastructure has been subject to massive, unpredictable change:
 
 ### Why hauntology?
 
+
+#### Quotes
 deconstruction, the philosophical project which Derrida 
 
 ontology, the philosophical study of what can be said to exist.
@@ -107,6 +113,9 @@ constitutes a refusal to give up on the desire for the future. This refusal give
 
 ### Not giving up the ghost
 
+
+
+#### Quotes
 mourning is the slow, painful withdrawal of libido from the lost object, in melancholia, libido remains attached to what has disappeared.
 
 They do no more than disavow the undeniable itself: a ghost never dies,
@@ -131,6 +140,9 @@ manic elation with misery, self-loathing, and ambivalence.’
 
 ### Nostalgia compared to what?
 
+
+
+#### Quotes
 is hauntology, as many of its critics have maintained, simply a name for nostalgia?
 
 nostalgia compared to what? 

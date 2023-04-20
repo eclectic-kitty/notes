@@ -2,7 +2,7 @@
 title: Final - Thots
 tags: [CART 210]
 created: 2023-04-17T02:09:04.999Z
-modified: 2023-04-17T16:04:48.075Z
+modified: 2023-04-18T23:36:58.554Z
 ---
 
 # Final - Thots
@@ -17,5 +17,7 @@ modified: 2023-04-17T16:04:48.075Z
 ## Married In Mount Airy
 
 ## AH - Skinamarink
+
+The idea of Skinamarink seeming like some sort of found creepypasta **cursed** tape relates both to the idea that its imperfections lend it a certain materiality and also the idea that what it contains is stronger than the medium meant to contain it (Brian Eno) (source for it being cursed or evil from Vulture article)
 
 ## AH - Local 58
