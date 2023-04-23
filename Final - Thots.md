@@ -2,7 +2,7 @@
 title: Final - Thots
 tags: [CART 210]
 created: 2023-04-17T02:09:04.999Z
-modified: 2023-04-21T23:23:05.080Z
+modified: 2023-04-23T20:09:20.006Z
 ---
 
 # Final - Thots
@@ -16,7 +16,14 @@ modified: 2023-04-21T23:23:05.080Z
 
 ## Married In Mount Airy
 
+Note: Ultimately, the details of what exactly the story is in MIMA is a little besides the point
 
+Nevertheless, it all has an overarching theme of revealing the ugliness, the horrific in the romantic 
+
+The story revolves around a relationship (or two) between a woman and men that start out charming and sweet, but ultimately want to hurt and control the protagonist
+(Comparison to Orpheus, so good at singing that he is able to charm even rocks, but who ultimately dies at the hands of women)
+
+Which is indeed, how it engages with nostalgia
 
 ## AH - Skinamarink
 

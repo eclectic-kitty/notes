@@ -1,11 +1,11 @@
 ---
-title: Final - Married in Mount Airy - track-by-track
+title: Final - Married in Mount Airy - Track-by-Track
 tags: [CART 210]
 created: 2023-04-19T19:21:55.645Z
-modified: 2023-04-23T04:19:22.108Z
+modified: 2023-04-23T22:51:50.264Z
 ---
 
-# Final - Married in Mount Airy - track-by-track
+# Final - Married in Mount Airy - Track-by-Track
 
 ## Married in Mount Airy 
 
@@ -59,6 +59,22 @@ With my hands caught in the curls of his long hair
 
 ## Gold Satin Dreamer
 
+### Lyrical thots
+Gold Satin Dreamer continues on from the title track, 
+presenting a picture of idyllic married life that's begun to rot around the edges
+The flowers never bloom only fade
+What lake is she dreaming of? It could be the lake at Mount Airy Lodge, or, although it's a bit of a stretch, it could be the pool at the end of the story
+Imagery of a calming bath is interrupted by the smell of **blood purged** from raw meat, the fact that it's for a barbecue returning only somewhat to the idyllic picture
+He seems absent, watching TV oor physically out of the house while he neglects her,
+Could even be physically abusive as she feels the kitchen tile on her cheek
+Her dreams, like the flowers that don't bloom, only die in the sun
+Leaving him would require some kind of violence and destruction, akin to burning wood in order to extract the smoke
+She waits for it to get dark, seeming to call towards "Sometime After Midnight"
+
+Thot re the flowers and dreams in the sun: light isn't inherently positive, yes it illuminates, but it illuminates both the good and the bad
+Imagery of rot or flesh: blood purged from raw steak, dreams that clot like blood, fading flowers
+
+
 ### Lyrics
 Light bleeds in through the curtain lace 
 Sleep on the couch where the flowers stay 
@@ -100,6 +116,12 @@ I wait for it to get dark
 
 ## Dogwood
 
+### Lyrical thots
+She has begun to realize his faults, but still refuses to let go
+He's self destructive, using some kind of drug
+He's also stubborn, refuses to be told what to do no matter the consequences
+While she denies that he understands these consequences and simply doesn't care
+
 ### Lyrics
 O Lord, please don’t take him from me 
 I need him, you know I do 
@@ -113,7 +135,7 @@ And there’s no use trying
 
 O Lord, please don’t give him those wings 
 You know how reckless he can be sometimes 
-And o I swear doesn’t mean it when he says 
+And o I swear he doesn’t mean it when he says 
 He don’t care if he lives or dies 
 
 And I’m not sure if you can hear this, but I read 
