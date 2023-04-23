@@ -2,7 +2,7 @@
 title: Final - Married in Mount Airy - track-by-track
 tags: [CART 210]
 created: 2023-04-19T19:21:55.645Z
-modified: 2023-04-20T17:36:45.630Z
+modified: 2023-04-23T04:19:22.108Z
 ---
 
 # Final - Married in Mount Airy - track-by-track
@@ -269,6 +269,17 @@ By the window-side
 
 ## Nymphs Finding the Head of Orpheus
 
+### Thots
+Low syrupy (electric?) guitars, **watery**
+Backwards cymbals before percussion fully kicks in?
+Backwards percussion?
+High wavery synth that slides from note to note
+Very thick atmosphere overall
+piano
+Some high wordless vocals
+Also vocals that repeat afterwards (**echo**)
+
+### Lyrics
 In the skeletal remains
 Of a pool long since drained
 Filled with rain,
