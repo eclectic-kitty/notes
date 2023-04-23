@@ -2,7 +2,7 @@
 title: Final - Research
 tags: [CART 210]
 created: 2023-04-01T00:37:40.292Z
-modified: 2023-04-18T19:46:34.712Z
+modified: 2023-04-21T21:15:10.725Z
 ---
 
 # Final - Research
@@ -288,3 +288,37 @@ what is our visual bond today? link to the present
 
 A shifting of cirumstances
 original **real thing** no longer important
+
+## Link rot, lost media
+
+#### Examples
+- Link rot
+	- Well established phenomenon of hyperlinks breaking
+	- Various estimates for link half-life
+		- 2003 study: 2 years
+		- 2003 study of digital libraries: 23 years
+		- 2021 NYT study: 15 years
+	- Projects such as the Internet Archive seek to save snapshots of early web
+		- Some content can't work here though, such as content to which access is restricted
+- Geocities
+	- In 1999, Geocities was the 3d most visited site online
+	- Immediately after being bought by Yahoo! things looked rough:
+	- New terms of service led to big protests
+	- Usage declined until it was shut down in 2009
+	- Archival projects exist, but a lot of the pages don't work 100%
+		- Missing images
+		- Broken links
+- Digital storefronts
+	- iOS App Store
+		- Flappy Bird
+	- Nintendo online shops
+- MySpace music
+	- Any music uploaded before 2015 gone
+	- Happened after server migration in 2018
+	- Mostly unnoticed until 2019
+	- Reasons
+		- Possibly intentional?
+		- At the very least very easily avoidable with a backup
+- Tumblr Porn ban
+	- Entire nsfw communities wiped
+	- Seemingly driven by advertisers or Apple
