@@ -2,14 +2,14 @@
 title: Final - Married in Mount Airy - Track-by-Track
 tags: [CART 210]
 created: 2023-04-19T19:21:55.645Z
-modified: 2023-04-23T22:51:50.264Z
+modified: 2023-04-24T03:12:53.756Z
 ---
 
 # Final - Married in Mount Airy - Track-by-Track
 
 ## Married in Mount Airy 
 
-### Musical elements
+### Musical Thots
 Distorted noisy acoustic guitar, pitch bending
 echoy vocals
 Background vocal repeating a little after
@@ -18,6 +18,15 @@ high pitched backup vocals
 syrupy far away echoy electric guitar
 low muted acoustic guitar very close
 wordless backup vocals ramping up to target note (similar to distorted guitar)
+
+### Lyrical Thots
+Uncertain memory, time markers:
+- She doesn't remember what they drank or sang
+- Were married in the 60's
+- But the ad she remembers is from the 80's
+	- **Something** in the air (line from the ad, meant to be positive)
+	- But she's prefaced it with "strange" earlier in the song (foreboding) 
+
 
 ### Lyrics
 I was married in Mount Airy 
@@ -148,6 +157,8 @@ Or you’ll have to pry him from my cold, dead grip
 
 ## Runnin' Free
 
+
+### Lyrics
 The days are long, please don’t go 
 I can’t trust myself to be alone 
 The sun beats down, 
@@ -182,6 +193,7 @@ In this lonely ’78 motorhome
 
 ## Bad Man
 
+### Lyrics
 I wish he didn’t have to die
 But he was a bad man
 
@@ -215,6 +227,7 @@ Over that bad man?
 
 ## My Darling True
 
+### Lyrics
 You won’t change your ways, my darling
 And they say it’s time for me to let you go
 ‘Cause you may just be the death of me
@@ -338,6 +351,7 @@ You cruel, cruel man
 
 ## Whispering Glades
 
+### Lyrics
 When you’re dead and buried with a smile painted on your face
 Your eulogy like poetry, flowers overwhelming the wake
 Where I’m sure as in your life there will be beautiful women there in your death
