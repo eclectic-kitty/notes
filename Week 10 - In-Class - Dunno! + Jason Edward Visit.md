@@ -1,11 +1,11 @@
 ---
-title: Week 10 - In-Class
+title: Week 10 - In-Class - Dunno! + Jason Edward Visit
 tags: [CART 210]
 created: 2023-03-20T17:48:22.595Z
-modified: 2023-03-24T19:49:42.872Z
+modified: 2023-04-24T18:30:23.105Z
 ---
 
-# Week 10 - In-Class
+# Week 10 - In-Class - Dunno! + Jason Edward Visit
 
 How do we situate ourselves in the topology of theory?
 

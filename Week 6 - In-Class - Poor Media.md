@@ -1,11 +1,11 @@
 ---
-title: Week 6 - In-Class -
+title: Week 6 - In-Class - Poor Media
 tags: [CART 210]
 created: 2023-02-13T18:54:06.396Z
-modified: 2023-02-13T20:01:44.472Z
+modified: 2023-04-24T18:27:22.296Z
 ---
 
-# Week 6 - In-Class - 
+# Week 6 - In-Class - Poor Media
 
 ## Recap
 
@@ -81,7 +81,7 @@ image is liberated ffrom vaults of cinemas and archives and thrust into digital 
 gorgeous, beautiful, moving, groundbreaking
 
 ### networks of poor images
-platofrm for fragle new common interest
+platform for fragile new common interest
 battleground
 experiemntal and artistic material, incredible amounts of porn and paranoia
 users become editors, critics, translators, co-authors of poor images
@@ -89,11 +89,11 @@ users become editors, critics, translators, co-authors of poor images
 #### Werner Herzog, Encounters at the End of the World
 documentary that is kind of hard to find
 penguin not going towards food or colony, but towards mountain
-nihilistic, disoriented pneguin
+nihilistic, disoriented penguin
 
 remixed into song
 
-Rminds me of Neil Cicierega
+*Reminds me of Neil Cicierega*
 
 #### snapshots
 Jazz Loon - jazz mixed with loon calls
