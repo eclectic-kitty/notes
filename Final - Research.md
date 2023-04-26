@@ -2,7 +2,7 @@
 title: Final - Research
 tags: [CART 210]
 created: 2023-04-01T00:37:40.292Z
-modified: 2023-04-21T21:15:10.725Z
+modified: 2023-04-24T20:15:51.087Z
 ---
 
 # Final - Research
@@ -16,7 +16,6 @@ modified: 2023-04-21T21:15:10.725Z
 prophetic for a general condition: in which life continues, but time has somehow stopped.
 
 ### The slow cancellation of the future
-
 
 #### Quotes
 this stasis has been buried, interred behind a superficial frenzy of ‘newness’, of perpetual movement.
@@ -75,7 +74,6 @@ infrastructure has been subject to massive, unpredictable change:
 
 ### Why hauntology?
 
-
 #### Quotes
 deconstruction, the philosophical project which Derrida 
 
@@ -113,8 +111,6 @@ constitutes a refusal to give up on the desire for the future. This refusal give
 
 ### Not giving up the ghost
 
-
-
 #### Quotes
 mourning is the slow, painful withdrawal of libido from the lost object, in melancholia, libido remains attached to what has disappeared.
 
@@ -139,8 +135,6 @@ manic elation with misery, self-loathing, and ambivalence.’
 ‘loss of a fantasy of omnipotence
 
 ### Nostalgia compared to what?
-
-
 
 #### Quotes
 is hauntology, as many of its critics have maintained, simply a name for nostalgia?
@@ -170,8 +164,6 @@ In the 21st century, by contrast – and the fusion of pop with reality TV is ab
 To say that the culture was desolate is not to say that there weren’t traces of other possibilities. Ghosts Of My Life is an attempt to engage with some of these traces.
 
 overwhelming melancholy; and they were preoccupied with the way in which technology materialised memory
-
-
 
 
 ## Steyerl - Poor Images

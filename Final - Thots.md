@@ -2,7 +2,7 @@
 title: Final - Thots
 tags: [CART 210]
 created: 2023-04-17T02:09:04.999Z
-modified: 2023-04-24T04:12:37.043Z
+modified: 2023-04-25T22:19:45.917Z
 ---
 
 # Final - Thots
@@ -22,18 +22,22 @@ Note: Ultimately, the details of what exactly the story is in MIMA is a little b
 Nevertheless, it all has an overarching theme of revealing the ugliness, the horrific in the romantic 
 
 #### Story
-The story revolves around a relationship (or two) between a woman and men that start out charming and sweet, but ultimately want to hurt and control the protagonist
-(Comparison to Orpheus, so good at singing that he is able to charm even rocks, but who ultimately dies at the hands of women)
+
+(Comparison to Orpheus, so good at singing that he is able to charm even rocks, but who is ultimately ripped apart by scorned women)
 The album revolves around the narrator and her initially dreamy but doomed relationship with her partner, a man who proves to be manipulative and abusive and ultimately seems to kill her
 
+Throughout it all, however, the Bride chooses to remain, going from making excuses for the Husband (Dogwood), Saying she enjoys the pain (My Darling True), or eventually staying with him in anger (Nymphs)
+
+Thus, the nostalgic and hauntological elements help represent and reinforce the way in which she is trapped
+
 #### Nostalgia
-Which is indeed, how it engages with nostalgia,
-Thematic connections to the album's namesake, Mount Airy Lodge
-A honeymoon resort in the Poconos
+The story is further reinforced by how the album engages with nostalgia,
+Thematic connections to the album's namesake, **Mount Airy Lodge**
+A **honeymoon resort** in the Poconos
 The place where the album's narrator and her husband got married
-Importantly, in the title track, the marriage and the descriptions of Mount Airy Lodge are in the past tense, a ghost
+Importantly, in the title track, the marriage and the descriptions of Mount Airy Lodge are in the **past tense**, a ghost
 Even the sound of the song is ghostly, **degraded tape guitar**
-The resort closed in 2003 after years of low attendance and ultimately demolished, like a lot of the other resorts in the area
+The resort closed in 2003 after years of low attendance and ultimately **demolished**, like a lot of the other resorts in the area
 Indeed, Nicole Dollanganger herself visited some of these abandoned resorts for photoshoots and a music video for her last album
 Stereogum interview: "Everything is love-based, but it’s broken down and destroyed, which is one of the coolest paradoxes that you can find."
 Capitalist (reference to famous ad) use of promises of picture-perfect love give way to the realities of rot 
@@ -66,12 +70,23 @@ Imagery released by Nicole with album feature a lot of degradation
 - A lot of them look like old images, or images copied over and over again, ex. [this](./nicoleImages/brideColourFar.jpeg)
 - Others, mainly single and cover art, look AI generated/edited, ex. [Gold Satin Dreamer single art](./nicoleImages/goldSatinDreamer.jpeg)
 - Definite AI [animation](./nicoleImages/nicoleAnimation.GIF) on website home page
+She's always dressed as a bride, even when it is eerily out of place, such as in the photos taken in the woods
 
 Hauntological formal element: time collapses in the techniques of the album's imagery
 
-## AH - Skinamarink
+#### Community
+Nicole Dollanganger got her start on Tumblr, where she first began to post her songs,shairng them with others who shared aesthetic sensibilities
+A lot of rural/small town, 50's, Americana, abandoned places, creepy dolls
+Often low-quality images
+Classic example of poor images
+Absent of any formal promotional material, this social media presence is the paratext
+One based around images from which the context has been (mostly) completely and utterly removed, both the immediate context behind each image, but also,
+evoke a nostalgic sense (hauntological longing) for a past most members of her community probably never even knew, and a future promised to us at this point mostly in media
+this circulation online created a community receptive to Nicole's work, even if it was a small one at first - visual bonds
 
-Film emphasizes helplessness of being a child
+## Skinamarink
+
+Film explores helplessness of being a child
 - Not understanding the motivations of adults - Inscrutable entity and behaviour of parents
 - Having a strange point of view - unusual camera angles
 - Not being able to choose where to go
@@ -109,5 +124,3 @@ Certainly, the material elements of the film make it look like it could be a deg
 Paradoxically, the lack of this being a formal framing (such as with The Blair Witch Project) kind of enhances this sense? It's presented very plainly (also helpful that it has next to no credits) as nowadays that tactic comes off as more of a marketing tactic than anything else
 It's difficult for me to find a lot of those Tik Toks so many articles mention, but Vulture article has a quote from Jane Schoenbrun about how it feels like early internet cursed videos
 (not my observation, but) it's style of jumpscare is also reminiscent of viral internet jumpscares such as *The Ghost of Bongcheon-Dong, the car ad, the scary maze game, etc.
-
-## AH - Local 58
