@@ -2,7 +2,7 @@
 title: Final - Writing
 tags: [CART 210]
 created: 2023-04-24T17:44:38.219Z
-modified: 2023-04-26T00:06:36.200Z
+modified: 2023-04-27T02:11:46.859Z
 ---
 
 # Final - Writing
@@ -21,7 +21,7 @@ While the record begins by painting an idyllic picture of its central couple, as
 
 Despite all the abuse, the Bride seems unable to pull herself away from him. On the aforementioned *Dogwood*, she prays for God to not let him die and denies his faults, telling God she "[refuses] to understand that he just makes his own bed". On *My Darling True* she seems to romanticize the abuse, saying she'd "love it so, If you'd hold me 'til I'm cold and blue". 
 
-The way the album's central relationship is slowly revealed to be far from perfect is further reflected by the album's relationship with nostalgia. The album's very title is a reference to the Mount Airy Lodge, a once famous honeymoon resort in the Poconos (NYT article). Once upon a time, it 
+The way the album's central relationship is slowly revealed to be far from perfect is further reflected by the album's relationship with nostalgia. The place where the couple are specifically said to have married, when they were happiest, which the record is named after, is the real life Mount Airy Lodge, a once famous honeymoon resort in the Poconos (NYT article). Once upon a time, it was one of the most popular resorts in an area full of them, with heart shaped tubs, champagne hot tubs, mirrors above beds, etc.
 
 While her fate isn't entirely clear, 
 
