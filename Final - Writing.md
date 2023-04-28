@@ -2,7 +2,7 @@
 title: Final - Writing
 tags: [CART 210]
 created: 2023-04-24T17:44:38.219Z
-modified: 2023-04-28T00:43:33.462Z
+modified: 2023-04-28T01:20:30.030Z
 ---
 
 # Final - Writing
@@ -28,11 +28,13 @@ An entirely romanticized view of nostalgia and relationships is not one the albu
 
 in *Mount Airy*, the Bride is haunted by the love promised to her by her Husband, while the reality of her situation eats away at that promise. Representative of this is the album's opening title track, which depicts her marriage at Mount Airy Lodge. In some ways, this is the happiest moment on the entire record, but it's only a fading memory. The first thing heard on the track is a guitar that randomly shifts out of tune, as if it were being played on an old tape. The title track is also one of only two songs on the entire record written in the past tense. Indeed, the Bride can't "recall what [they] were drinking." She even references a famous 90's ad for the resort which featured the catchphrase "all you have to bring is your love of everything," but she says they were married in the sixties. This memory, in and of itself beginning to rot and increasingly melancholy, haunts the rest of the record
 
+//
 
 Not only is the album hauntological, but the Bride herself becomes a ghost. In the album's last full song, *Whispering Glades*, the Bride imagines her Husband's burial, finally able to see his true nature. Importantly, she describes the Husband "dead and buried with a smile painted on [his] face." On a metaphorical level, the Husband paints on his smile in order to deceive the women he abuses with a charming exterior, but on a literal level, his smile is painted on because he's dead; a mortician has given him this smile. At the end of the song, the Bride describes that unlike the other mourners, she'll have "a smile painted on [her] face." She too has died. 
 
 Tragically though, ghosts don't get to move on. In the album's last track, an outro/interlude, the Bride has seemingly forgotten the abuse or her Husband's death, as she waits for him to call. After a few short verses, the song transitions into the same distorted guitar from the very first song. The Bride thus forever relives the events that led to her death, over and over again
 
+//
 
 The horror to come also seeps into the memory, as she remembers her Husband tasting bitter, like sherry, instead of maraschino cherries. 
 Ultimately, her descriptions of being carried into their suite and "[making] love beneath the mirrored ceilings" , with its cold guitars soaked in reverb
