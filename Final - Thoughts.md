@@ -1,11 +1,11 @@
 ---
-title: Final - Thots
+title: Final - Thoughts
 tags: [CART 210]
 created: 2023-04-17T02:09:04.999Z
-modified: 2023-04-25T22:19:45.917Z
+modified: 2023-04-28T19:35:09.954Z
 ---
 
-# Final - Thots
+# Final - Thoughts
 
 ## Questions
 - What has driven this movement of artwork made with intentionally poor images?
