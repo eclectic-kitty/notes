@@ -2,7 +2,7 @@
 title: Final - In-Class Exercises - W8
 tags: [CART 210]
 created: 2023-03-06T19:26:51.225Z
-modified: 2023-03-06T20:55:42.175Z
+modified: 2023-04-29T16:07:07.110Z
 ---
 
 # Final - In-Class Exercises - W8
@@ -12,13 +12,6 @@ modified: 2023-03-06T20:55:42.175Z
 - How does the use of nostalgia in these works compare to the use of nostalgia in broader or more traditional culture? Are the aims, methods, or impact different? Is it a coincidence?
 - Has there actually been a change over time? Is this phenomenon recurring, constant, or something wholly new? If there is a change, what has driven it? Is it technology? Philosophy?
 - What disturbances do these ghosts cause? What has died? 
-
-### 
-
-
-
-
-
 
 
 Turning people into objects? Where are the sould in our cyborg lives? How are we dealing with the extension of our bodies? 

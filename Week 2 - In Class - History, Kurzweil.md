@@ -2,7 +2,7 @@
 title: Week 2 - In Class - History, Kurzweil
 tags: [CART 210]
 created: 2023-01-16T18:36:51.616Z
-modified: 2023-02-13T21:33:37.185Z
+modified: 2023-04-29T16:06:49.788Z
 ---
 
 # Week 2 - In Class - History, Kurzweil
@@ -20,7 +20,7 @@ Add stuff to planner!
 Keeping notes in what place!
 Sync across devices!
 
-### Managin readings
+### Managing readings
 Reading visually isn't always the best!
 Could convert PDFs to OCR (with PDF24 potentially)
 Programs:
