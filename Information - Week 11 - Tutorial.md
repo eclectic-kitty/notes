@@ -1,7 +1,8 @@
 ---
 title: Information - Week 11 - Tutorial
+tags: [FFAR 250]
 created: 2023-03-24T20:29:23.402Z
-modified: 2023-03-24T20:40:05.222Z
+modified: 2023-10-25T00:38:36.338Z
 ---
 
 # Information - Week 11 - Tutorial
