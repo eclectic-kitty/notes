@@ -2,7 +2,7 @@
 title: IP Poster Thots
 tags: [CART 214]
 created: 2023-10-24T18:18:25.458Z
-modified: 2023-10-25T00:44:03.455Z
+modified: 2023-11-01T00:46:51.524Z
 ---
 
 # IP Poster Thots
@@ -44,3 +44,22 @@ List of things wrong
 - Copyright terms are absurdly long (death + 70 years, or 95 years)
 
 - Any kind of artwork that involves using bits and pieces of older work (ex. remixes, collage, sampling) puts artists at legal risk. This shuts
+
+### Text
+
+Copyright law protects them not you
+Copyright law protects big companies, not artists
+
+Copyright law stifles creativity
+To protect rights holders, not artists
+To protect them, not you
+
+Knowledge and art should be freely accessible
+
+Copying is necessary for creativity
+Copying is essential for creativity
+Copying *is* creativity
+
+### Visuals
+
+
