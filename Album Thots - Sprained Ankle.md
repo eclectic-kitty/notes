@@ -2,7 +2,7 @@
 title: Album Thots - Sprained Ankle
 tags: [CART 214]
 created: 2023-11-14T01:26:18.487Z
-modified: 2023-11-14T03:05:51.569Z
+modified: 2023-11-15T05:19:45.719Z
 ---
 
 # Album Thots - Sprained Ankle
@@ -34,6 +34,15 @@ Slanted (italics?), all caps, sans-serif, modern
 Like the use of different weights on the font to differentiate title and artist
 Single font used throughout material
 Literally no small letters
+
+### Themes / images I could focus on
+Cuerpos, abject
+Decomposition
+Ghosts, absence, of people, of faith
+Noise, snow
+luz, a shoulder to cry on, holiness
+
+Something more fleshy, something more noisy, something with a light, somethign with sheets
 
 
 ## Potential other records
