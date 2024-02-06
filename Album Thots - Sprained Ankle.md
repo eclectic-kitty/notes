@@ -1,8 +1,7 @@
 ---
 title: Album Thots - Sprained Ankle
-tags: [CART 214]
-created: 2023-11-14T01:26:18.487Z
-modified: 2023-11-15T05:19:45.719Z
+created: 2024-02-05T03:37:37.563Z
+modified: 2024-02-06T15:59:28.364Z
 ---
 
 # Album Thots - Sprained Ankle
@@ -44,6 +43,25 @@ luz, a shoulder to cry on, holiness
 
 Something more fleshy, something more noisy, something with a light, somethign with sheets
 
+### Evocative lines
+- "The broken strings and amplifiers scream with holy noise"
+- "A saline communion that I held like a seance on the blacktop"
+- "But I can't go to bed without drawing the red, shaving off breaths
+Each one so heavy, each one so cumbersome
+Each one a lead weight hanging between my lungs"
+- "The low, electric glow, static snows in the lobby"
+- "But the same briars from your ribs
+Are the tinder in my father's house"
+- "And grind my teeth like sutures, my mouth like a wound"
+- "The walls of my skull bend backwards
+And in like a labyrinth"
+- "But I think there's a God and He hears either way
+When I rejoice and complain"
+- "Tell me in thin paper about your love"
+- "Peel back my skin, call out my name"
+- "Vessel of brightness, come make me blind"
+- "God, I wanna go home"
+- "Needles to the worn-out rags"
 
 ## Potential other records
 - It's a Wonderful Life
@@ -53,3 +71,4 @@ Something more fleshy, something more noisy, something with a light, somethign w
 - Silent Shout
 - Bad Books
 - Lungs
+- When We Were That What Wept for the Sea
