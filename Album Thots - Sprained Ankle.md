@@ -1,10 +1,13 @@
 ---
 title: Album Thots - Sprained Ankle
-created: 2024-02-05T03:37:37.563Z
-modified: 2024-02-06T15:59:28.364Z
+created: 2024-02-06T16:00:22.193Z
+modified: 2024-02-06T16:00:22.193Z
 ---
 
 # Album Thots - Sprained Ankle
+
+## Paragraph
+Sprained Ankle is, at surface level, a rather simple singer-songwriter record. All of the songs but one feature only Julien Baker singing by herself, accompanied by acoustic guitar, electric guitar, or piano. The original visual design reflects this simplicity, utilising a washed out monochrome blue photo of Julien, accompanied by small all-caps sans-serif type in grey and white. While the design's coldness does a great job in representing the stark instrumentals and heartbreaking lyrics, I find the simple imagery a tad uninspired. Many of the songs touch on varied forms of absence (of faith, of loved ones, of a sense of self-worth) and feature often viscerally blunt imagery ("But I can't go to bed without drawing the red, shaving off breaths / Each one so heavy, each one so cumbersome"). These are some of the elements I hope to bring out more in my redesign of the album's covers, as well as the record's ultimately comforting nature, that of cathartically sharing your pain with someone else who understands.
 
 ## Existing Sleeve
 Very simple and minimalist overall, monochrome

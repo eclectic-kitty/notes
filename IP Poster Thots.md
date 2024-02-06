@@ -1,8 +1,9 @@
 ---
 title: IP Poster Thots
+attachments: [Clipboard_2023-12-06-23-11-02.png, Clipboard_2023-12-06-23-11-03.png, Clipboard_2023-12-06-23-11-03 (2).png, Clipboard_2023-12-06-23-11-04.png, Clipboard_2023-12-06-23-11-05.png, Clipboard_2023-12-06-23-11-06.png]
 tags: [CART 214]
 created: 2023-10-24T18:18:25.458Z
-modified: 2023-11-01T00:46:51.524Z
+modified: 2023-12-07T05:08:40.127Z
 ---
 
 # IP Poster Thots
@@ -12,7 +13,6 @@ Collage seems like a natural fit here
 I do wanna keep it relatively simple? Just to prevent creating extra work for me?
 I could use text as a whitespace, maybe arrange it in fun patterns
 I do like the punkiness associated with it
-After all, the idea is very much ant-current state of things, anti-capitalist, etc.
 I want some photocopy texture in there as well, a little grainy
 
 I want something cutting in though, representing how current law stifles creativity
@@ -60,6 +60,19 @@ Copying is necessary for creativity
 Copying is essential for creativity
 Copying *is* creativity
 
+Intellectual property is theft
+Intellectual property is the theft of creativity
+remixing is creativity
+Creativity is remixing
+
+Copyright law stifles remixing
+Remixing is creativity
+
 ### Visuals
 
+I want some kind of scene of creation/creativity interrupted
+Maybe a musician recording?
+A DJ spinning records?
+Either that or a more abstract collage, like an explosion of different creative stuff (ie RIP cover)
+AN explosion off of a record?
 
