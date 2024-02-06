@@ -2,7 +2,7 @@
 title: Week 2 & 3 - Java Fundamentals & Console Input
 tags: [COMP 248]
 created: 2024-01-24T15:41:37.120Z
-modified: 2024-02-02T16:31:40.057Z
+modified: 2024-02-06T02:49:11.458Z
 ---
 
 # Week 2 & 3 - Java Fundamentals & Console Input
@@ -117,8 +117,6 @@ Single characters
 True or false
 reserved words true and false only valid values
 *Not* 0 & 1
-
-## Variables and Constants
 
 ## Variables
 
@@ -269,7 +267,7 @@ List of escape sequences
 	- prints double quote
 - \\'
 	- prints single quote
-- \\
+- \\\
 	- prints backslash
 
 
