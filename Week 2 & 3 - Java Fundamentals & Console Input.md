@@ -270,6 +270,9 @@ List of escape sequences
 - \\\
 	- prints backslash
 
+## Operations
+### Assignment
+#### Def: 
 Used to change the value of a variable
 The assignment operator is '='
 _Syntax_: Variable = Expression
@@ -278,6 +281,7 @@ Semantics:
 The _expression_ on the right is evaluated
 The result is stored in the variable on the left (overwriting any previous value)
 
+#### Extra assignment operators
 - **+=**
 	- Ex. x += y
 	- is x = x + y
