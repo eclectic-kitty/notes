@@ -2,7 +2,7 @@
 title: Week 2 & 3 - Java Fundamentals & Console Input
 tags: [COMP 248]
 created: 2024-01-24T15:41:37.120Z
-modified: 2024-02-06T02:49:11.458Z
+modified: 2024-02-07T16:13:48.782Z
 ---
 
 # Week 2 & 3 - Java Fundamentals & Console Input
@@ -397,3 +397,70 @@ b3 = b1 + b2; // ❌
 // Instead, you should do the following:
 b3 = (byte)(b1 + b2)
 ```
+
+## Strings
+
+An object defined by the *String* class. It's Delimited by double quotation marks
+ex: "hello"
+
+Note: " denote strings and ' denote chars, ie. 'a' is a char, "a" is a string
+
+### Declaring strings
+
+1, Declaring a reference to String object
+
+	 type | variable name
+	String title;
+
+2, Create the object itself (the String itself)
+
+	title = new String("content");
+
+However, simply assigning the text to a new String variable will automatically call the constructor, as strings are so common.
+
+	String title = "content";
+
+### Working with strings
+
+Once a string is created, its value is immutable
+- Can't lengthen
+- Can't shorten
+
+
+When one assigns a string to a variable, variable doesn't directly store string, but rather a reference to the string in memory
+Java can keep the same variable name, but will reference a new location in memory
+
+The String allows for the following:
+- \+
+	- concatenation
+- length()
+	- returns # of characters in a string
+- concat(str)
+	- returns the concatenation of the string and tr
+- toUpperCase()
+	- returns the string all in uppercase
+- Replace(oldChar, newChar)
+	- returns a new string where all occurrences of oldChar are replaced with newChar
+- etc.
+
+### nextLine()
+Reads the remainder of a line of text starting *where the last reading left off*
+
+This can cause problems when combining it with diff. methods for reading from the keyboard
+
+Ex.
+
+	// Code:
+	int n = keyboard.nextInt();
+	String s1 = keyboard.nextLine();
+	String s2 = keyboard.nextLine();
+
+	// Input:
+	2
+	Heads are better than
+	1 head
+
+	// Results:
+	n = 2
+	s1 = " ", aka the return character
+	s2 = Heads are better than
