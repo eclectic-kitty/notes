@@ -2,7 +2,7 @@
 title: Week 4
 tags: [ENGL 255]
 created: 2024-02-09T16:53:37.826Z
-modified: 2024-02-09T19:09:15.872Z
+modified: 2024-02-23T05:40:15.661Z
 ---
 
 # Week 4
@@ -25,7 +25,7 @@ movement of ceiling coming up is denoting the ceiling coming up
 connotations
 opening up, shift in atmosphere, surrealism
 
-round white shape moving _denotes_ a passage of time, movement
+round white shape moving _denotes_ a moon, a passage of time, movement
 _connotes_ a timelessness, a fuzzy perspective of time, stuck
 
 audio, denotes a performance
