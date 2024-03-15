@@ -2,7 +2,7 @@
 title: Week 2 & 3 - Java Fundamentals & Console Input
 tags: [COMP 248]
 created: 2024-01-24T15:41:37.120Z
-modified: 2024-02-07T16:13:48.782Z
+modified: 2024-03-10T06:34:06.817Z
 ---
 
 # Week 2 & 3 - Java Fundamentals & Console Input
@@ -29,8 +29,8 @@ Words a programmer uses in a program to name variables, classes, methods, etc.
 - can contain 🟢
 	- letters
 	- numbers
-	- _ (I've been working as a bank teller / For like eleven years...)
-	- $ (dollar sign)
+	- _ 
+	- $ (dollar sign) (I've been working as a bank teller / For like eleven years...)
 		- not recommended, can be confusing
 - can not 🔴
 	- begin with a number
@@ -260,7 +260,7 @@ List of escape sequences
 - \b
 	- prints backspace
 - \t
-	- prints backspace
+	- prints tab
 - \n
 	- prints to new line
 - \\"
