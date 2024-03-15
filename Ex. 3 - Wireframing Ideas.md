@@ -1,11 +1,11 @@
 ---
-title: Wireframing Ideas
+title: Ex. 3 - Wireframing Ideas
 tags: [CART 310]
 created: 2024-02-18T20:24:58.891Z
-modified: 2024-02-18T20:55:44.298Z
+modified: 2024-02-20T00:55:49.846Z
 ---
 
-# Wireframing Ideas
+# Ex. 3 - Wireframing Ideas
 
 ## Affordance words
 request, demand, encourage, discourage, refuse, and allow
