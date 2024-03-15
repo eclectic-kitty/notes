@@ -2,7 +2,7 @@
 title: Week 4 - Selection
 tags: [COMP 248]
 created: 2024-01-31T15:23:10.823Z
-modified: 2024-02-14T16:26:18.377Z
+modified: 2024-03-10T06:51:58.030Z
 ---
 
 # Week 4 - Selection
@@ -122,7 +122,7 @@ How many of these parentheses do we need in this example?
 #### Symbols
 - ==
 - !=
-- >
+- \>
 - <
 - =>
 - =<
@@ -141,4 +141,9 @@ a < b is true because the unicode value of a is smaller than that of b
 Relational operators can not be used with strings, as they are objects
 Instead, strings have the equals() method.
 
+### For loops
+if initialization is left out, no initialization is performed
+if condition is left out, it will always be true
+if the increment is left out, no increment operation is performed
 
+All of this is a-ok syntactically according to compiler, but also can easily lead to an infinite loop
