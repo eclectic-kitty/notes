@@ -2,7 +2,7 @@
 title: Final - Thots
 tags: [ENGL 255]
 created: 2024-03-14T15:40:48.371Z
-modified: 2024-03-15T04:18:27.507Z
+modified: 2024-03-15T22:01:16.666Z
 ---
 
 # Final - Thots
@@ -44,12 +44,20 @@ Alan Wake 2 has the player/Saga & Alan perform various rituals throughout the ga
 - overlap rituals
 	- witch's heart
 	- brother's murder
-	- Tor's sons
+	- Tor's song
+	- special items
+	- special ordering of time
 - overlaps
-	- Going through the same place multiple times
+	- repetition
+	- special place
+- Dark Ocean Summoning
+	- Appeal to another
+	- Hoping to bring about a change in the world through art, ritual
+	- Weird time stuff (special ordering of time))
 - Alan's murder scenes
 	- Recreating the scenes
 	- Meant to appeal to him, his ego
+	- Certain order of events (special ordering of time)
 - Alan's loops
 	- Waking up, talking to door
 	- Enacting one of his murder scenes
@@ -59,6 +67,11 @@ Alan Wake 2 has the player/Saga & Alan perform various rituals throughout the ga
 	- Eventually leading to his ascension
 	- While reinforcing itself
 	- Gameplay loop of burning darkness before shooting
+	- Hero's journey
+		- His three books
+- Nursery rhymes
+	- Recreating stories
+	- Archetypes
 
 #### Thematic effects
 - Relating the work of bettering one's self to rituals
@@ -78,12 +91,116 @@ Alan Wake 2 has the player/Saga & Alan perform various rituals throughout the ga
 		- Appealing to Truth, Beauty
 		- Appealing to ideals, emotions, etc.
 	- Difficult work
+
+#### Miscellaneous
+- Something about losing control of one's work, the ritual/piece having its own life
+- Something about all of Alan's doubles, Zane & Scratch
+	- Each loop, both small and large ending with him being shot
+	- And the Dark presence possessing him/being created
+	- Him writing and rewriting, not necessarily remembering
+	- Zane having written his childhood memory into the story for the first game
+	- Zane as a figure reappearing changed, another archetype, facet of Alan
+		- He's a lot like Alan pre-first-game, party animal, egotistical, etc.
+- History of various artists interfacing with the lake
+	- Each performing their own ritual
+	- Rituals are *required* to use powers
+- Talk show
+	- Another kind of performance, ritual
+	- Audience, purpose to make money
+	- Standard structure and ordering of time
+	- Preselected questions
+- "All these convoluted loops you insist on going through"
+- "I don't think you even know who's under your mask"
+- "You would do well to return the favor by playing your part..."
+- "There's so much rage inside of him and I just can't stand it anymore"
+- "People call me an artist but I just wanted to show the world what I see"
+- "It's time for a perspective shift, to go from artist to art"
+- "I had to mislead you to get you to where you need to be"
+- Loop connections
+	- Zane
+		- Alan gives up on writing
+		- Scratch offers Zane with help escaping, writes Return
+		- Alan shows back up, is told he wrote Return
+		- Later again, is told Scratch left Zane and took the book (but he's still around)
+		- Told he shouldn't hesitate to kill Scratch
+		- Back and forth, Zane being gleeful and looking evil
+		- Alan shoots Zane
+	- Writer's room
+		- First* loop:
+			- He finds himself dead, with Return finished
+			- Before he's able to do much, he's possessed by the Dark Presence
+		- Second* loop:
+			- He finds the writer's room empty, with the first draft of Return
+			- Starts to edit it, scratch things out,
+			- Writes Saga into the story
+			- Is killed by himself
+		- Third* loop:
+			- Alan, thinking Alice has killed herself, enters
+			- Finds himself editing the manuscript
+			- Thinks it's Scratch, shoots himself
+			- Realizing, gives up, 
+			- is possessed by the Dark Presence
+		- Escape:
+			- Comes out of the dark place, possessed
+			- After some time, Scratch comes out, wants clicker
+			- Scratch is burned out of him, but possess Casey instead
+			- Scratch's Return is made real,
+				- Everyone loves Alan and Return
+			- Alan returns to the writer room, edits ending w/ Saga
+		- Final loop:
+			- Saga meets Alan in the writer's room
+			- Casey appears
+			- With Return & clicker, Dark Presence is forced out of Casey
+			- Re-enters Alan
+			- Saga shoots Alan w/ bullet of light
+			- Same as opening of game (shining bullet hole, darkness behind)
+#### Talking with Kelsey
 	
+Present in the narratological and ludological elements
+Bringing a ludological element explicitly into the narrative
+Recontextualize typical videogame elements (the idea of the gameplay loop) 
+
+What is it for? WHat does this do?
+
+#### Poem
+
+Lost on the shore
+Between the forest and the ocean
+The owl and the deer
+Reflected in motion
+
+In his room, he will hurt her
+In hers, he is caught
+His story ends
+Her story does not
+
+//
+
+A pale balloon in the sky 
+Float and sink deeper 
+Night springs when bright falls 
+For this sleeper 
+
+The surface disturbed 
+The reflection now a traitor 
+In the cavity of a skull 
+Turned to a crater 
+
+//
+
+This is the ritual
+To lead you on
+Your friends will meet him
+When you are gone 
+
 #### Class concepts
 - Performance theory
 	- rituals
 - Ludology
 - Narratology
+
+#### Sources
+- Alan Wake 2, 2023, Remedy Entertainment
 
 ## Kentucky Route Zero
 KRZ puts player in role of actor, playing and thus making interpretive choices about its characters
