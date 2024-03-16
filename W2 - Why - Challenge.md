@@ -1,9 +1,9 @@
 ---
 title: W2 - Why - Challenge
 title_custom: true
-tags: [Intro to Game Design]
+tags: [CART 215 - Intro to Game Design]
 created: 2022-11-27T21:01:56.235Z
-modified: 2022-11-28T00:38:38.053Z
+modified: 2024-03-15T18:36:32.057Z
 ---
 
 # Why do we play games?

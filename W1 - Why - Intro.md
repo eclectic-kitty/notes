@@ -1,9 +1,9 @@
 ---
 title: W1 - Why - Intro
 title_custom: true
-tags: [Intro to Game Design]
+tags: [CART 215 - Intro to Game Design]
 created: 2022-11-27T21:01:56.243Z
-modified: 2022-11-27T21:58:33.324Z
+modified: 2024-03-15T18:37:46.771Z
 ---
 
 # Intro
@@ -18,7 +18,7 @@ Why did I come back to it?
 - Familiar, somewhat comfortable
 Why did I start playing it?
 - Visuals, platformer, recommendation
-- T An act of seduction, interplay between visuals, genre, expected pattern, word of mouth
+- Jonathan: An act of seduction, interplay between visuals, genre, expected pattern, word of mouth
 
 ##### Classmate
 - Elden Ring
@@ -35,7 +35,7 @@ Friend
 
 ### Transgression tangent
 - It would seem that games allow a space to transgress and explore
-- Counterpoint tho, it can lead to ruining other players
+- Counterpoint tho, it can lead to ruining other players' experience
 
 ### Drawing
 - Basic idea of what drawing a face is

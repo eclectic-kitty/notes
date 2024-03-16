@@ -1,9 +1,9 @@
 ---
 title: W4 - Why - Narrative & People
 title_custom: true
-tags: [Intro to Game Design]
+tags: [CART 215 - Intro to Game Design]
 created: 2022-11-27T21:01:56.239Z
-modified: 2022-11-29T02:42:16.879Z
+modified: 2024-03-15T18:36:32.059Z
 ---
 
 # Narrative (finishing up from last week)

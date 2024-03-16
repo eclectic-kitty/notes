@@ -1,9 +1,9 @@
 ---
 title: W3 - Why - Narrative
 title_custom: true
-tags: [Intro to Game Design]
+tags: [CART 215 - Intro to Game Design]
 created: 2022-11-27T21:01:56.239Z
-modified: 2022-11-27T22:31:48.531Z
+modified: 2024-03-15T18:36:32.057Z
 ---
 
 # Why do we play games? - Stories & Narrative

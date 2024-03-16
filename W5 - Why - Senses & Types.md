@@ -1,9 +1,9 @@
 ---
 title: W5 - Why - Senses & Types
 title_custom: true
-tags: [Intro to Game Design]
+tags: [CART 215 - Intro to Game Design]
 created: 2022-11-27T21:01:56.243Z
-modified: 2022-11-28T03:05:35.518Z
+modified: 2024-03-15T18:36:32.059Z
 ---
 
 # Sensory Immersion

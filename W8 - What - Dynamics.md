@@ -1,9 +1,9 @@
 ---
 title: W8 - What - Dynamics
 title_custom: true
-tags: [Intro to Game Design]
+tags: [CART 215 - Intro to Game Design]
 created: 2022-11-27T21:01:56.243Z
-modified: 2022-11-27T22:09:43.345Z
+modified: 2024-03-15T18:36:32.059Z
 ---
 
 # What Are Games Made Out Of?
