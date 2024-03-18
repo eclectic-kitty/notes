@@ -2,7 +2,7 @@
 title: Final - Thots
 tags: [ENGL 255]
 created: 2024-03-14T15:40:48.371Z
-modified: 2024-03-18T01:30:11.497Z
+modified: 2024-03-18T03:19:35.761Z
 ---
 
 # Final - Thots
@@ -72,7 +72,6 @@ Alan Wake 2 has the player/Saga & Alan perform various rituals throughout the ga
 - Nursery rhymes
 	- Recreating stories
 	- Archetypes
-
 - Gameplay
 	- Gameplay loops:
 		- Taken/shadow encounters
