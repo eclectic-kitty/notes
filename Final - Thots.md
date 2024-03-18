@@ -1,7 +1,8 @@
 ---
 title: Final - Thots
+tags: [ENGL 255]
 created: 2024-03-18T05:41:46.809Z
-modified: 2024-03-18T05:41:46.809Z
+modified: 2024-03-18T20:18:23.280Z
 ---
 
 # Final - Thots
@@ -42,13 +43,20 @@ Alan Wake 2 has the player/Saga & Alan perform various rituals throughout the ga
 #### examples
 - overlap rituals
 	- witch's heart
+		- Finding the heart, placing it in the witch and reciting the poetry
 	- brother's murder
+		- Arranging all the items and placing them on the float
 	- Tor's song
+		- Finding and playing the record
 	- special items
 	- special ordering of time
 - overlaps
 	- repetition
 	- special place
+	- Boss characters taking on established archetypes
+		- Nightingale = witch
+		- Thornton & Mulligan = brothers' story
+		- Cynthia = drowned teenage girl
 - Dark Ocean Summoning
 	- Appeal to another
 	- Hoping to bring about a change in the world through art, ritual
@@ -71,6 +79,7 @@ Alan Wake 2 has the player/Saga & Alan perform various rituals throughout the ga
 - Nursery rhymes
 	- Recreating stories
 	- Archetypes
+	- Most direct player participation
 - Gameplay
 	- Gameplay loops:
 		- Taken/shadow encounters
@@ -81,7 +90,7 @@ Alan Wake 2 has the player/Saga & Alan perform various rituals throughout the ga
 		- Arranging case/plot board
 			- Serves to connect player to the narrative ritual/play
 		- Searching for collectibles & clues
-		- 
+		- Nursery rhymes
 	- Narrative loops
 		- Talking to characters
 		- Considering mysteries
