@@ -2,7 +2,7 @@
 title: Final - Thots
 tags: [ENGL 255]
 created: 2024-03-14T15:40:48.371Z
-modified: 2024-03-15T22:01:16.666Z
+modified: 2024-03-18T01:30:11.497Z
 ---
 
 # Final - Thots
@@ -73,6 +73,22 @@ Alan Wake 2 has the player/Saga & Alan perform various rituals throughout the ga
 	- Recreating stories
 	- Archetypes
 
+- Gameplay
+	- Gameplay loops:
+		- Taken/shadow encounters
+			- Weakening & stunning enemies w/ flashlight
+			- Shooting enemies
+			- Or running
+			- Managing resources
+		- Arranging case/plot board
+			- Serves to connect player to the narrative ritual/play
+		- Searching for collectibles & clues
+		- 
+	- Narrative loops
+		- Talking to characters
+		- Considering mysteries
+		- Facing scares
+
 #### Thematic effects
 - Relating the work of bettering one's self to rituals
 	- Not a linear process, involves repetition
@@ -82,6 +98,7 @@ Alan Wake 2 has the player/Saga & Alan perform various rituals throughout the ga
 		- Or bettering yourself for the others around you?
 		- Connection to programs like AA?
 	- Difficult work
+	- A transition in life
 - Relating artistic work to rituals
 	- Not a linear process, involves repetition
 		- Creation is a constant process of editing, rewriting, starting over, whittling away, etc.
@@ -91,6 +108,8 @@ Alan Wake 2 has the player/Saga & Alan perform various rituals throughout the ga
 		- Appealing to Truth, Beauty
 		- Appealing to ideals, emotions, etc.
 	- Difficult work
+	- Communication with and forming of communities
+
 
 #### Miscellaneous
 - Something about losing control of one's work, the ritual/piece having its own life
@@ -98,7 +117,7 @@ Alan Wake 2 has the player/Saga & Alan perform various rituals throughout the ga
 	- Each loop, both small and large ending with him being shot
 	- And the Dark presence possessing him/being created
 	- Him writing and rewriting, not necessarily remembering
-	- Zane having written his childhood memory into the story for the first game
+	- Zane having written Alan's childhood memory into the story for the first game
 	- Zane as a figure reappearing changed, another archetype, facet of Alan
 		- He's a lot like Alan pre-first-game, party animal, egotistical, etc.
 - History of various artists interfacing with the lake
@@ -196,11 +215,37 @@ When you are gone
 #### Class concepts
 - Performance theory
 	- rituals
+		- What is the ritual of playing the game communicating?
+			- By playing the game, the player partakes in the ritual, the performance of the game
+			- One can learn the lessons Alan learns, perhaps?
+				- Players have to face the same fears as Alan & Saga
+			- Or not learn, but receive, emote, identify with
+			- The game's events can be seen as a ritual of letting go that Alan needs to perform over and over again before understanding
+			- This can be connected to the drive of people to create art and how that helps one deal with emotions
+		- Separation, Liminal, Reaggregation - rites of passage
+			- During the liminal phase for us, 
+				- We are stripped of our individual identities and given new ones?
+				- the game's coded rules are the authority we have to follow
+				- The controller is given special meaning
 - Ludology
 - Narratology
 
 #### Sources
 - Alan Wake 2, 2023, Remedy Entertainment
+- Performance Studies, an Introduction, chap. 5 ritual, Schechner
+	- Rituals mark transitions, and help the people through them
+	- Rituals can be used to communicate
+- 
+
+**Quotes**
+- "Ritual not only commu­nicates something but is taken by those performing it to
+be 'doing something' as well" - Rappaport, Ecology, Meaning, and Religion
+- "Rituals enhance clear communications because they are exaggerated, over­ determined, redundant, and repetitious. Ritual’s insistent metamessage is, 'You get the message, don’t you?!' " - Schechner, Performance Studies, an Introduction, chap. 5
+- "...they make men forget the real world and transport them into another where their imagination is more at ease; they distract." - Durkheim, The Elementary Forms of the Religious Life
+- "In play, the transformations are temporary, bounded by the
+rules of the game or the conventions of the genre" - Schechner, Performance Studies, An Introduction
+
+## Thread 3: Hero's journey & dual protagonists
 
 ## Kentucky Route Zero
 KRZ puts player in role of actor, playing and thus making interpretive choices about its characters
