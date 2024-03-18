@@ -1,8 +1,7 @@
 ---
 title: Final - Thots
-tags: [ENGL 255]
-created: 2024-03-14T15:40:48.371Z
-modified: 2024-03-18T03:19:35.761Z
+created: 2024-03-18T05:41:46.809Z
+modified: 2024-03-18T05:41:46.809Z
 ---
 
 # Final - Thots
@@ -173,12 +172,27 @@ Alan Wake 2 has the player/Saga & Alan perform various rituals throughout the ga
 			- Saga shoots Alan w/ bullet of light
 			- Same as opening of game (shining bullet hole, darkness behind)
 #### Talking with Kelsey
+
+
+Why?
+What is that ritual structure doing?
+
+Doing just a narratological analysis, a close reading, is **fine**
+Why does it matter that it's using ritual?
+
+narratological and ludological representations of rituals recontextualises the typical structure of videogames
+
+procedural rhetoric?
 	
 Present in the narratological and ludological elements
 Bringing a ludological element explicitly into the narrative
 Recontextualize typical videogame elements (the idea of the gameplay loop) 
 
-What is it for? WHat does this do?
+What is it for? What does this do?
+
+What are rituals for?
+Instead of trying to exert control on the world,
+Alan needs to change internally
 
 #### Poem
 
@@ -235,6 +249,8 @@ When you are gone
 	- Rituals mark transitions, and help the people through them
 	- Rituals can be used to communicate
 - 
+- Hero With a Thousand Faces, Joseph Campbell
+	- Very clear influence on game (book titles, talk of heroes)
 
 **Quotes**
 - "Ritual not only commu­nicates something but is taken by those performing it to
