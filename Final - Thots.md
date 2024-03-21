@@ -2,7 +2,7 @@
 title: Final - Thots
 tags: [ENGL 255]
 created: 2024-03-18T05:41:46.809Z
-modified: 2024-03-18T20:18:23.280Z
+modified: 2024-03-19T04:51:28.187Z
 ---
 
 # Final - Thots
@@ -69,13 +69,13 @@ Alan Wake 2 has the player/Saga & Alan perform various rituals throughout the ga
 	- Waking up, talking to door
 	- Enacting one of his murder scenes
 	- Returning to the 
-- Game itself
+- Story itself
 	- It's all a big ~~loop~~ spiral! Enacting the story Alan has written
 	- Eventually leading to his ascension
 	- While reinforcing itself
-	- Gameplay loop of burning darkness before shooting
 	- Hero's journey
-		- His three books
+		- His three books, Departure, Initiation, Return
+- Gameplay loop of burning darkness before shooting
 - Nursery rhymes
 	- Recreating stories
 	- Archetypes
