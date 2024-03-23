@@ -2,7 +2,7 @@
 title: Final - Thots
 tags: [ENGL 255]
 created: 2024-03-18T05:41:46.809Z
-modified: 2024-03-18T20:18:23.280Z
+modified: 2024-03-22T20:04:54.483Z
 ---
 
 # Final - Thots
@@ -142,6 +142,30 @@ Alan Wake 2 has the player/Saga & Alan perform various rituals throughout the ga
 - "People call me an artist but I just wanted to show the world what I see"
 - "It's time for a perspective shift, to go from artist to art"
 - "I had to mislead you to get you to where you need to be"
+- Opening monologue
+	- Back to the beginning.
+	- We all come to a story with hopes and expectations, looking for an answer.
+	- Sometimes it would be better to live with that hope without ever knowing the full story.
+	- In a horror story, there are only victims and monsters, and the trick is not to end up as either.
+	- But, trapped by the genre, we are all ripped to pieces along the way.
+	- This is not the story I hoped it would be.
+	- This is not the ending I wanted.
+	- This story will eat us alive.
+	- This story is a monster.
+- Loop monologue
+	- Back to the beginning, with the memory of the past loop already fading fast.
+	- But while it lingers, I know there's hope.
+	- We're not doomed to repeat our failures in an eternal loop.
+	- This is a spiral.
+	- A fictional poet once said: beyond the shadow you settle for, there is a miracle illuminated.
+	- I will not settle for a shadow.
+	- I'll find the miracle, through the night.
+	- It's not just victims and monsters.
+	- I see now there are heroes as well.
+	- We can find our way through the darkness.
+	- We will break through the surface.
+	- We will emerge, into the light.
+
 - Loop connections
 	- Zane
 		- Alan gives up on writing

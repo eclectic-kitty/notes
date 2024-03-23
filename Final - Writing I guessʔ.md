@@ -2,7 +2,7 @@
 title: Final - Writing I guessʔ
 tags: [ENGL 255]
 created: 2024-03-18T03:07:08.242Z
-modified: 2024-03-20T01:33:16.154Z
+modified: 2024-03-21T18:28:29.798Z
 ---
 
 # Final - Writing I guessʔ
@@ -49,3 +49,19 @@ During his captivity, Wake is stuck in perpetual loops of attemptsing to escape 
 		- repetition, starting over, is an inherent part of the process
 	- Ultimately, a lot of the difficulty is internal, which means it is within our power to escape
 		- still difficult
+- Elements of rituals:
+	- Rules, script 
+		- Carry authority
+			- Can propel one through a difficult process, despite being scary, one doesn't have a choice
+			- Can also make someone feel less responsible
+		- Are artificial, fabricated, not natural
+			- Despite how it might feel, they can be changed
+	- Focus on efficacy
+		- Unlike other types of performance these processes could be compared to, rituals are most associated with some kind of purpose they are trying to achieve
+		- In fact there is a whole set of rituals called liminal rituals that directly serve the purpose of helping the ritual's practitioner with a big life change
+			- Connection to monomyth, the idea of character arcs
+			- Ultimately the whole game's events is one of these rituals
+		- This should come first, as it *validates* my focus on rituals as the type of performance 
+			- Maybe I could talk about more general performance elements beforehand, before honing in on rituals as key to understanding Alan's and Saga's journey
+	- Community
+		- COuld perhaps be related to Alan learning to accept help from others? To hear others' perspective?
