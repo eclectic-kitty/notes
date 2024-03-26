@@ -1,10 +1,106 @@
 ---
 title: Final - Thots
+tags: [ENGL 255]
 created: 2024-03-23T01:14:30.294Z
-modified: 2024-03-23T01:14:30.294Z
+modified: 2024-03-26T03:38:47.142Z
 ---
 
 # Final - Thots
+
+## Outline / Planning
+### Outline
+- Main arg: ~~Comparing rituals to the process of personal growth illuminates how one can get stuck following unhealthy behavioural/cognitive patterns as well as the need to persevere despite repeated failure.~~
+Refined: Comparing the process of personal growth to a ritual illuminates 
+	- Arg. 1: Rituals and personal growth are both effective performances; they seek to achieve a goal.
+		- Under Schechner's performance spectrum, rituals are (in part) differentiated by a focus on efficacy
+			- AWII features art and other rituals having a direct effect on reality
+		- More specifically, personal growth practices can be seen as a kind of liminal ritual, seeking some kind of transformation (set of liminoid rituals having a liminal effect?)
+			- Connection with typical Western narrative structure, monomyth being a cycle of transformation
+			- A lot of thresholds in AWII, references to monomyth
+	- Arg. 2: The authority of a ritual mirrors how unhealthy behaviour reinforces itself
+		- Rituals, as very structured performances with set rules, usually carry with them religious or social authority, as well as a construction of history / state of being
+			- In AWII, Alan feels the need to stick to conventions, as well as elements of the story that already exist / have been written in by Scratch
+			- The bosses are all characters who are made to fit within established stories, then recreated by Saga to encounter them
+		- The belief that one is a bad person carries with it a certain authority, is a prescriptive statement about one's self
+			- Alan prescribes to himself the alternating roles of victim and monster, impeding his escape (growth)
+			- The murders Alan writes are cult murders, those who perform them are acting on the authority of the cult, and Alan in turn
+			- "This is the ritual to lead you on"
+	- Arg. 3: The constructed nature of rituals mirrors how one's construction of self can affect reinforce new behaviours
+		- However, rituals' rules are not set in stone, despite how they might feel, and can change to better fit the practitioners' goals
+			- History of invented rituals
+			- The Cult of the Word bases their rituals entirely around Alan's writing, something very new
+			- Simlarly, the Torchbearers are
+		- Similarly, it is ultimately within one's power to change how they think of themselves and utilize that authority in service of personal goals
+			- Ultimately, Alan's escape is only possible by changing what he considers possible to write into the story, ie casting himself as a hero
+	- Arg. 4: Power of repetition?
+	- Arg. 5: Power of community?
+		- Learning to accept help from Saga
+		- Saga and Alan communicating through overlaps
+		- As well as through their powers
+
+### Refining planning
+- vague: ritual imagery is invoked in order to illuminate the processes of personal growth and art creation
+- elements:
+	- getting stuck in unhealthy patterns
+	- non-linear processes
+		- one will fail and make mistakes
+		- repetition, starting over, is an inherent part of the process
+	- Ultimately, a lot of the difficulty is internal, which means it is within our power to escape
+		- still difficult
+
+- Elements of rituals:
+	- Rules, script 
+		- Carry authority
+			- Explanation
+				- Can propel one through a difficult process, despite being scary, one doesn't have a choice
+				- Can also make someone feel less responsible
+			- **Meaning**
+				- Getting stuck in self-destructive patterns - thinking one *is* bad becomes an excuse for doing bad things, allowing one to sshirk responsibility
+		- Are artificial, fabricated, not natural
+			- Explanation
+				- Despite how it might feel, they can be changed
+			- **Meaning**
+				- We have the power to change our own behaviour, we don't have to follow these *rules*
+	- Focus on efficacy
+		- Unlike other types of performance these processes could be compared to, rituals are most associated with some kind of purpose they are trying to achieve
+		- In fact there is a whole set of rituals called liminal rituals that directly serve the purpose of helping the ritual's practitioner with a big life change
+			- Connection to monomyth, the idea of character arcs
+			- Ultimately the whole game's events is one of these rituals
+			- liminal rituals
+		- This should come first, as it *validates* my focus on rituals as the type of performance 
+			- Maybe I could talk about more general performance elements beforehand, before honing in on rituals as key to understanding Alan's and Saga's journey
+	- ///
+	- Community?
+		- Could perhaps be related to Alan learning to accept help from others? To hear others' perspective?
+	- Repetition?
+		- Behaviour, whether healthy or not, is self-reinforcing, bringing something into being?
+		- Despite an apparent lack of direct effect, something shifts beneath the surface, repeating can over time produce an effect
+
+### Planning 😯 (elements from assignment instructions)
+- topic
+	- Use of ritual imagery
+- clearly define key terms
+	- see bolded words
+-  case study
+	- Alan Wake 2
+- state your main argument(s)
+	- The game invokes the concept of rituals to illuminate the process of personal growth
+		- spiral as a nesting doll of rituals (ritualistically engaging in bad behaviour, recognising bad behaviour and source, working to change it, restarting, non-linear)
+			- Repeating **liminoid** rituals, creating a **liminal** ritual
+		- Needing to perform ritual repetitively in order to enact change slowly /
+		Needing an archetype to follow, a destiny
+			- **Restored behaviour**, set of pre-established actions
+			- **Hero's journey**
+		- A ritual carries authority and rules with it, but these are not fixed
+		- Where does this authority come from? For Alan, it is internal, so he has the power to directly change it
+		- But also, because it is internal, without external help, he is ultimately doomed to only repeat and never truly change
+			- Unable to escape the framing of himself as victim/monster
+		- Saga (Alice) teaches him the importance of writing your own story
+			- Collaboration, different perspectives, alternative to monomyth
+- why your topic and/or argument matters.
+	- Understanding why this game connected with me
+	- Blurring between art and ritual
+		- **Efficacy**
 
 ## Alan Wake 2
 
@@ -57,7 +153,7 @@ Alan Wake 2 has the player/Saga & Alan perform various rituals throughout the ga
 		- Thornton & Mulligan = brothers' story
 		- Cynthia = drowned teenage girl
 - Dark Ocean Summoning
-	- Appeal to another
+	- Appeal to another? Wake?
 	- Hoping to bring about a change in the world through art, ritual
 	- Weird time stuff (special ordering of time))
 - Alan's murder scenes
@@ -131,7 +227,7 @@ Alan Wake 2 has the player/Saga & Alan perform various rituals throughout the ga
 	- Rituals are *required* to use powers
 - Talk show
 	- Another kind of performance, ritual
-	- Audience, purpose to make money
+	- Appeal to other? celebrity? advertising?
 	- Standard structure and ordering of time
 	- Preselected questions
 - "All these convoluted loops you insist on going through"
@@ -164,6 +260,12 @@ Alan Wake 2 has the player/Saga & Alan perform various rituals throughout the ga
 	- We can find our way through the darkness.
 	- We will break through the surface.
 	- We will emerge, into the light.
+- Ending monologue
+	- What lies under the surface now shifts. A play of shadows catching my eye. Thrusting my face into the water - it's shockingly cold - past the mirror of the surface, and I will see
+	- A white searing light of truth, that for a flash, pierces the shadows and reveals the hidden horror. And in that moment of silence, the whispered message, finally heard.
+	- What if there's nothing waiting to be revealed? The play of shadows fooled us all. Subterfuge to get our price of admission. Darkness not as a monster, but as emptiness. We are none the wiser. No answers. No truths. 
+	- The hero turns to look inside, is destroyed by what he sees, and is redeemed. Saga said we're both heroes. I'll pay the price. so will she. We are here to kill the monster. I pray nothing comes after, nothing but sleep.
+	- This is how we win. Is it too easy? What if this is still the dark place? Another dream to wake up from. Always coming back to the beginning. The memory of what came before burned away by this terrible realisation. Maybe it's a mercy, forgetting. To know nothing when we loop around, back to -
 
 - Loop connections
 	- Zane
@@ -177,7 +279,7 @@ Alan Wake 2 has the player/Saga & Alan perform various rituals throughout the ga
 	- Writer's room
 		- First* loop:
 			- He finds himself dead, with Return finished
-			- Before he's able to do much, he's possessed by the Dark Presence
+			- Before he's able to do much, he's possessed by the Dark Presence?
 		- Second* loop:
 			- He finds the writer's room empty, with the first draft of Return
 			- Starts to edit it, scratch things out,
@@ -192,11 +294,11 @@ Alan Wake 2 has the player/Saga & Alan perform various rituals throughout the ga
 		- Escape:
 			- Comes out of the dark place, possessed
 			- After some time, Scratch comes out, wants clicker
-			- Scratch is burned out of him, but possess Casey instead
+			- Scratch is burned out of him, but possesses Casey instead
 			- Scratch's Return is made real,
 				- Everyone loves Alan and Return
 			- Alan returns to the writer room, edits ending w/ Saga
-		- Final loop:
+		- Final* loop:
 			- Saga meets Alan in the writer's room
 			- Casey appears
 			- With Return & clicker, Dark Presence is forced out of Casey
