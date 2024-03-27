@@ -2,7 +2,7 @@
 title: Final - Thots
 tags: [ENGL 255]
 created: 2024-03-23T01:14:30.294Z
-modified: 2024-03-26T03:38:47.142Z
+modified: 2024-03-27T02:37:42.195Z
 ---
 
 # Final - Thots
@@ -10,14 +10,14 @@ modified: 2024-03-26T03:38:47.142Z
 ## Outline / Planning
 ### Outline
 - Main arg: ~~Comparing rituals to the process of personal growth illuminates how one can get stuck following unhealthy behavioural/cognitive patterns as well as the need to persevere despite repeated failure.~~
-Refined: Comparing the process of personal growth to a ritual illuminates 
-	- Arg. 1: Rituals and personal growth are both effective performances; they seek to achieve a goal.
+Refined: Comparing the process of personal growth to a ritual illuminates the process of personal growth.
+	- Arg. 1: *Rituals and personal growth are both effective; they seek to achieve a goal.*
 		- Under Schechner's performance spectrum, rituals are (in part) differentiated by a focus on efficacy
 			- AWII features art and other rituals having a direct effect on reality
 		- More specifically, personal growth practices can be seen as a kind of liminal ritual, seeking some kind of transformation (set of liminoid rituals having a liminal effect?)
 			- Connection with typical Western narrative structure, monomyth being a cycle of transformation
 			- A lot of thresholds in AWII, references to monomyth
-	- Arg. 2: The authority of a ritual mirrors how unhealthy behaviour reinforces itself
+	- Arg. 2: *The authority of a ritual mirrors how unhealthy behaviour reinforces itself.*
 		- Rituals, as very structured performances with set rules, usually carry with them religious or social authority, as well as a construction of history / state of being
 			- In AWII, Alan feels the need to stick to conventions, as well as elements of the story that already exist / have been written in by Scratch
 			- The bosses are all characters who are made to fit within established stories, then recreated by Saga to encounter them
@@ -25,11 +25,11 @@ Refined: Comparing the process of personal growth to a ritual illuminates
 			- Alan prescribes to himself the alternating roles of victim and monster, impeding his escape (growth)
 			- The murders Alan writes are cult murders, those who perform them are acting on the authority of the cult, and Alan in turn
 			- "This is the ritual to lead you on"
-	- Arg. 3: The constructed nature of rituals mirrors how one's construction of self can affect reinforce new behaviours
+	- Arg. 3: *The constructed nature of rituals mirrors how one's construction of self can affect reinforce new behaviours.*
 		- However, rituals' rules are not set in stone, despite how they might feel, and can change to better fit the practitioners' goals
 			- History of invented rituals
 			- The Cult of the Word bases their rituals entirely around Alan's writing, something very new
-			- Simlarly, the Torchbearers are
+			- Simlarly, the Torchbearers & Cult of the Tree see Alan as a figure to revere or fear
 		- Similarly, it is ultimately within one's power to change how they think of themselves and utilize that authority in service of personal goals
 			- Ultimately, Alan's escape is only possible by changing what he considers possible to write into the story, ie casting himself as a hero
 	- Arg. 4: Power of repetition?
@@ -101,6 +101,11 @@ Refined: Comparing the process of personal growth to a ritual illuminates
 	- Understanding why this game connected with me
 	- Blurring between art and ritual
 		- **Efficacy**
+
+### Discarded writing
+
+During his captivity, Wake is stuck in perpetual loops of attempting to escape the Dark Place by writing stories, as the Dark Place embues art with reality-altering powers. These stories take the form of horror stories about ritualistic murders involving Wake's evil double, Scratch, who was created by the Dark Place to stop him. These attempts consistently fail however, as Wake believes that he must stick to what he perceives as the genre conventions of horror, namely that all the characters fall into the roles of monsters or victims. Through the lens of performance theory, these conventions he sticks to when writing can be seen as the rules of certain kinds of performances, namely rituals. By only writing within these rules, however, he ultimately writes himself in as alternatively a victim and a monster, forgetting each time the loop resets.
+
 
 ## Alan Wake 2
 
