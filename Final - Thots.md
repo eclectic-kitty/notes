@@ -2,7 +2,7 @@
 title: Final - Thots
 tags: [ENGL 255]
 created: 2024-03-23T01:14:30.294Z
-modified: 2024-03-27T02:37:42.195Z
+modified: 2024-04-05T15:28:30.269Z
 ---
 
 # Final - Thots
@@ -235,44 +235,7 @@ Alan Wake 2 has the player/Saga & Alan perform various rituals throughout the ga
 	- Appeal to other? celebrity? advertising?
 	- Standard structure and ordering of time
 	- Preselected questions
-- "All these convoluted loops you insist on going through"
-- "I don't think you even know who's under your mask"
-- "You would do well to return the favor by playing your part..."
-- "There's so much rage inside of him and I just can't stand it anymore"
-- "People call me an artist but I just wanted to show the world what I see"
-- "It's time for a perspective shift, to go from artist to art"
-- "I had to mislead you to get you to where you need to be"
-- Opening monologue
-	- Back to the beginning.
-	- We all come to a story with hopes and expectations, looking for an answer.
-	- Sometimes it would be better to live with that hope without ever knowing the full story.
-	- In a horror story, there are only victims and monsters, and the trick is not to end up as either.
-	- But, trapped by the genre, we are all ripped to pieces along the way.
-	- This is not the story I hoped it would be.
-	- This is not the ending I wanted.
-	- This story will eat us alive.
-	- This story is a monster.
-- Loop monologue
-	- Back to the beginning, with the memory of the past loop already fading fast.
-	- But while it lingers, I know there's hope.
-	- We're not doomed to repeat our failures in an eternal loop.
-	- This is a spiral.
-	- A fictional poet once said: beyond the shadow you settle for, there is a miracle illuminated.
-	- I will not settle for a shadow.
-	- I'll find the miracle, through the night.
-	- It's not just victims and monsters.
-	- I see now there are heroes as well.
-	- We can find our way through the darkness.
-	- We will break through the surface.
-	- We will emerge, into the light.
-- Ending monologue
-	- What lies under the surface now shifts. A play of shadows catching my eye. Thrusting my face into the water - it's shockingly cold - past the mirror of the surface, and I will see
-	- A white searing light of truth, that for a flash, pierces the shadows and reveals the hidden horror. And in that moment of silence, the whispered message, finally heard.
-	- What if there's nothing waiting to be revealed? The play of shadows fooled us all. Subterfuge to get our price of admission. Darkness not as a monster, but as emptiness. We are none the wiser. No answers. No truths. 
-	- The hero turns to look inside, is destroyed by what he sees, and is redeemed. Saga said we're both heroes. I'll pay the price. so will she. We are here to kill the monster. I pray nothing comes after, nothing but sleep.
-	- This is how we win. Is it too easy? What if this is still the dark place? Another dream to wake up from. Always coming back to the beginning. The memory of what came before burned away by this terrible realisation. Maybe it's a mercy, forgetting. To know nothing when we loop around, back to -
-
-- Loop connections
+- Organizing loops
 	- Zane
 		- Alan gives up on writing
 		- Scratch offers Zane with help escaping, writes Return
@@ -310,6 +273,45 @@ Alan Wake 2 has the player/Saga & Alan perform various rituals throughout the ga
 			- Re-enters Alan
 			- Saga shoots Alan w/ bullet of light
 			- Same as opening of game (shining bullet hole, darkness behind)
+
+### Quotes
+- "All these convoluted loops you insist on going through"
+- "I don't think you even know who's under your mask"
+- "You would do well to return the favor by playing your part..."
+- "There's so much rage inside of him and I just can't stand it anymore"
+- "People call me an artist but I just wanted to show the world what I see"
+- "It's time for a perspective shift, to go from artist to art"
+- "I had to mislead you to get you to where you need to be"
+- Opening monologue
+	- Back to the beginning.
+	- We all come to a story with hopes and expectations, looking for an answer.
+	- Sometimes it would be better to live with that hope without ever knowing the full story.
+	- In a horror story, there are only victims and monsters, and the trick is not to end up as either.
+	- But, trapped by the genre, we are all ripped to pieces along the way.
+	- This is not the story I hoped it would be.
+	- This is not the ending I wanted.
+	- This story will eat us alive.
+	- This story is a monster.
+- Loop monologue
+	- Back to the beginning, with the memory of the past loop already fading fast.
+	- But while it lingers, I know there's hope.
+	- We're not doomed to repeat our failures in an eternal loop.
+	- This is a spiral.
+	- A fictional poet once said: beyond the shadow you settle for, there is a miracle illuminated.
+	- I will not settle for a shadow.
+	- I'll find the miracle, through the night.
+	- It's not just victims and monsters.
+	- I see now there are heroes as well.
+	- We can find our way through the darkness.
+	- We will break through the surface.
+	- We will emerge, into the light.
+- Ending monologue
+	- What lies under the surface now shifts. A play of shadows catching my eye. Thrusting my face into the water - it's shockingly cold - past the mirror of the surface, and I will see
+	- A white searing light of truth, that for a flash, pierces the shadows and reveals the hidden horror. And in that moment of silence, the whispered message, finally heard.
+	- What if there's nothing waiting to be revealed? The play of shadows fooled us all. Subterfuge to get our price of admission. Darkness not as a monster, but as emptiness. We are none the wiser. No answers. No truths. 
+	- The hero turns to look inside, is destroyed by what he sees, and is redeemed. Saga said we're both heroes. I'll pay the price. so will she. We are here to kill the monster. I pray nothing comes after, nothing but sleep.
+	- This is how we win. Is it too easy? What if this is still the dark place? Another dream to wake up from. Always coming back to the beginning. The memory of what came before burned away by this terrible realisation. Maybe it's a mercy, forgetting. To know nothing when we loop around, back to -
+
 #### Talking with Kelsey
 
 
