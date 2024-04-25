@@ -1,7 +1,8 @@
 ---
 title: Week 9 - CLose Reading & Ideology
+tags: [ENGL 255]
 created: 2024-03-22T15:48:58.395Z
-modified: 2024-03-22T17:28:45.810Z
+modified: 2024-04-16T20:12:24.614Z
 ---
 
 # Week 9 - CLose Reading & Ideology

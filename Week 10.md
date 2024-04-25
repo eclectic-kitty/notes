@@ -2,7 +2,7 @@
 title: Week 10
 tags: [ENGL 255]
 created: 2024-04-05T15:45:50.407Z
-modified: 2024-04-05T22:06:50.803Z
+modified: 2024-04-12T16:14:08.686Z
 ---
 
 # Week 10
@@ -185,6 +185,7 @@ Ot does so through the force and play of some bodies against others, through enf
 #### Fetch quest
 Task mission within an rpg given to player in which objects must be acquired and brought back to quest giver
 
+#### ???
 items are resources, exist only for player's use
 we rarely see an effect on land, env.
 constant respawning doesn't take this into account
@@ -207,4 +208,11 @@ but even when not, Link always needs to take from environment in order to contin
 	- Needing to go get Ganon
 - Principles that underpin
 	- Navigating environment, can't skip over it much, 
-	- 
+	
+Game lets you decide what errands you want to undertake
+a lot of agency is given to the player
+Thus, do the game's quests really count as errands?
+
+The environment is afforded a certain amount of agency as it is not trivial to traverse the land, one spends a lot of time and brain power figuring out how to traverse the environment
+
+
