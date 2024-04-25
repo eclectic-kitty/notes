@@ -1,9 +1,8 @@
 ---
 title: Final - Research Notes
 tags: [FFAR 250]
-favorited: true
 created: 2023-03-29T21:00:52.219Z
-modified: 2023-04-14T20:59:20.382Z
+modified: 2023-12-19T18:20:14.450Z
 ---
 
 # Final - Research Notes

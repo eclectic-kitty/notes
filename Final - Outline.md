@@ -1,9 +1,8 @@
 ---
 title: Final - Outline
 tags: [FFAR 250]
-favorited: true
 created: 2023-04-10T20:27:34.621Z
-modified: 2023-04-15T02:32:53.042Z
+modified: 2023-12-19T18:20:16.645Z
 ---
 
 # Final - Outline

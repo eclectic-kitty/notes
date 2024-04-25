@@ -1,12 +1,12 @@
 ---
-title: Final - Writing I guess?
+title: Final - proposal writing I guess?
 title_custom: true
 tags: [ENGL 255]
 created: 2024-03-23T01:14:30.294Z
-modified: 2024-04-05T14:48:18.589Z
+modified: 2024-04-25T20:42:27.756Z
 ---
 
-# Final - Writing I guessʔ
+# Final - Proposal - Writing I guessʔ (first draft)
 
 ## Writing!!! 😱
 
