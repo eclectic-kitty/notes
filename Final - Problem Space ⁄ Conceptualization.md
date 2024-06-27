@@ -2,7 +2,7 @@
 title: Final - Problem Space ⁄ Conceptualization
 tags: [CART 310]
 created: 2024-05-31T04:52:27.077Z
-modified: 2024-06-04T03:57:51.367Z
+modified: 2024-06-27T05:09:59.959Z
 ---
 
 # Final - Problem Space ⁄ Conceptualization
@@ -60,4 +60,43 @@ Features I hadn't thought about!
 - photo gallery
 
 A little confusing that there's tabs on the top and bottom?
+
+
+### Paprika
+side hamburger menu instead of tabs.
+Less immediately noticeable what's going on?
+But perhaps also simpler off the bat, less intimidating
+Message encouraging me to browse or make a new one!
+sorting at the bottom is def weird tho
+
+A-ha! browse button leads to an online amalgamation of various sites
+Potentially warming up to the idea of having a starting type, particularly it being outside of app
+I do think an import function is useful
+
+creating a new recipe
+- Again, a bit more simple, one screen instead of many tabs!
+- Rating again!
+
+grocery list
+- simple text box to enter ingredients
+- automatic detection for quantities
+	- quantities appear as slightly smaller gray text!
+- checklist system
+- separated by iasle/section
+- editing pop up
+	- no delete button in edit page feels a little confusing
+- long press, delete button apears in toolbar
+	- able to delete many times quickly!
+- toolbar
+	- three dot menu in corener, clear, move to pantry(?), print, email
+		- print and email feel like they could bve grouped in a share button?
+	- search button
+	- list selector arrow
+	- list name
+- at bottom, filters and sort by selector
+	- the sort by selector includes per recipe? doesn't seem super well implemented? not sure what it means? is it list?
+		- turns out it's not the list...
+		- apparently it comes from when u add ingredients from a recipe
+		- wish you could change what recipe something is in from the grocery list screen
+	- same as on recipe list!
 
