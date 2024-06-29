@@ -3,7 +3,7 @@ title: Final - pre-thots
 title_custom: true
 tags: [ENGL 255]
 created: 2024-03-23T01:14:30.294Z
-modified: 2024-04-25T20:52:29.637Z
+modified: 2024-05-03T03:46:49.020Z
 ---
 
 # Final - pre-thots
@@ -275,6 +275,29 @@ Alan Wake 2 has the player/Saga & Alan perform various rituals throughout the ga
 			- Saga shoots Alan w/ bullet of light
 			- Same as opening of game (shining bullet hole, darkness behind)
 
+### Chapter list
+- Initiation 
+	- Initiation 1: Talk Show (subway loop)
+	- Initiation 2: Casey 
+	- Initiation 3: Haunted  
+	- Initiation 4: We Sing (hotel loop)
+	- Initiation 5: Room 665  
+	- Initiation 6: Return  
+	- Initiation 7: Masks (cinema loop)
+	- Initiation 8: Zane's Film
+	- Initiation 9: Gone
+- Return
+	- Return 0: The Cult (prologue)
+	- Return 1: Invitation
+	- Return 2: The Heart
+	- Return 3: Local Girl
+	- Return 4: No Chance
+	- Return 5: Old Gods
+	- Return 6: Scratch
+	- Return 7: Summoning 
+	- Return 8: Deerfest 
+	- Return 9: Come Home
+
 ### Quotes
 - "All these convoluted loops you insist on going through"
 - "I don't think you even know who's under your mask"
@@ -283,6 +306,17 @@ Alan Wake 2 has the player/Saga & Alan perform various rituals throughout the ga
 - "People call me an artist but I just wanted to show the world what I see"
 - "It's time for a perspective shift, to go from artist to art"
 - "I had to mislead you to get you to where you need to be"
+- Ahti talks about good and evil, not one without the other after te second In Between interview
+- "It was disturbing finding myself in the story like this, but I was desperate and it felt right for the story" - Alan, after seeing an echo referring to him as a leader of the Cult of the Word, Initiation 2: Casey
+- "Something about the station platform felt significant. It would work in my writing, but I would need more. Something lingered here, a half-forgotten memory, an echo."
+- "I had a flash of inspiration. The ghost of my fictional detective. A story thread I could use in my writing."
+- "Things clicked into place. The story rang true. I was making progress"
+- "I wrote you in to be the story's hero. Scratch made a horror story. I need to match the genre. It has to be dark, but the hero can break through. Save her family." - Initiation 8: Zane's Film
+- "The full manuscript of a novel. 'Return'. A horror story about the Dark Presence escaping from the Dark Place. Taking over Bright Falls I couldn't remember writing it. I had not written it. I would never write this. I knew who had. Scratch. A monster with my face. If this story came true, Scratch would get out. People would die. Destroying the manuscript, it wouldn't stop it from happening. I would have to fix it. Edit it. I could not change the genre of the story. I would have to work within the constraints set by Scratch. I needed someone in the story to fight the Darkness. Saga Anderson. I kept seeing her in my visions. She was already in Bright Falls, Already involved. But she was not in Return. Not yet. I'd write her in. Try to stop Scratch within the limits of the horror story. It was almost impossible. It was taking too long. I had not reached the end." - End of second loop, Initiation 6: Return
+
+- Casey monologue, subway murder
+	- Stepping into the murder site, I had felt it, hanging in the air. A meaning. The violent emotion of the act. Like a cloud of wrath. The dead eyes of the victim staring at something you couldn't see, and yet, making you aware of it. Something had soaked into this place at a molecular level. Overlapping with your meaningless existence. A regression to something you had managed to forget. Marking you. Taking you for a ride. Making you crazier.
+
 - Opening monologue
 	- Back to the beginning.
 	- We all come to a story with hopes and expectations, looking for an answer.
@@ -312,7 +346,31 @@ Alan Wake 2 has the player/Saga & Alan perform various rituals throughout the ga
 	- What if there's nothing waiting to be revealed? The play of shadows fooled us all. Subterfuge to get our price of admission. Darkness not as a monster, but as emptiness. We are none the wiser. No answers. No truths. 
 	- The hero turns to look inside, is destroyed by what he sees, and is redeemed. Saga said we're both heroes. I'll pay the price. so will she. We are here to kill the monster. I pray nothing comes after, nothing but sleep.
 	- This is how we win. Is it too easy? What if this is still the dark place? Another dream to wake up from. Always coming back to the beginning. The memory of what came before burned away by this terrible realisation. Maybe it's a mercy, forgetting. To know nothing when we loop around, back to -
+- Final Draft ending monologue
+	- I see it clearly now. This part at least.
+	- We have met here before. 
+	- Time loops in the Dark Place. 
+	- Every choice affects everything that comes before and after you make it, like it does when you change a detail in a story you're writing.
+	- When the bullet of light blew the darkness out of the crater of my skull, the Dark Presence was born from the remains, feeding on the horror around it to grow.
+	- It found me writing, tapped into me, influenced me. I was lost in my work
+	- The link was severed when I finished Return, but the Dark Presence was hungry for more. And I was missing the small part of myself that it had been born from.
+	- Alice. Love is strange.
+	- Even apart, we're still together in our memories.
+	- We put each other through hell to set us free.
+	- Again and again. Different versions of us.
+	- Alice helped me get there. Where I needed to be.
+	- It has taken so long.
+	- The process to change reality is so delicate, to be true in just the right way and still find a way past our flaws.
+	- So many drafts. So many photographs. So many lives lived outside of time.
+	- An eternity apart to finally arrive here.
+	- And so I return.
+	- With me I bear the torch of knowledge. 
+	- The light. The miracle illuminated
+	- The master of two worlds.
+	- No, the master of many worlds.
 
+Ritual not only commu­nicates something but is taken by those performing it to
+be 'doing something' as well
 #### Talking with Kelsey
 
 
@@ -334,9 +392,21 @@ What is it for? What does this do?
 
 What are rituals for?
 Instead of trying to exert control on the world,
-Alan needs to change internally
+Alan needs to change internally?
 
 #### Poem
+
+The writer of the first word
+Not the writer of the last
+With the terror of the light
+And the shadows cast
+
+The Third eye now open
+To project the night
+This is the moment
+To write
+
+//
 
 Lost on the shore
 Between the forest and the ocean

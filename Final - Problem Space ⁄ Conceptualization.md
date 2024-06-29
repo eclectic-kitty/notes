@@ -61,6 +61,35 @@ Features I hadn't thought about!
 
 A little confusing that there's tabs on the top and bottom?
 
+Recipe viewing thots
+- I love the checklist, but it's a bit hard to press as it's just tapping on the text and it's very small
+- That being said, it works way better for the directions, as each step is separated + they're multiple lines to begin with.
+- I like that the quantities are bolded, called attention to
+- I like that changing the quantity you're making is in the serving size section of the recipe, makes sense
+	- once again tho, very small button
+	- I don't love it being the most buttony thing on the recipe itself though, I do like the cimplicity of having it be in the toolbar up top
+- Don't think the photo should be so big, not sure I even want photos tbh?
+	- maybe just in notes, such as what colour something should be at a given point in cooking
+- I don't think I would want a nutrition section?
+- The overall look is a bit bland too tbh, just v directly sticking to android conventions (which look dated now) and I don't personally like orange
+- share button?
+
+Recipe editing/creating thots
+- Don't love that the ingredients are just presented as a plain text list!
+	- Doesn't allow to convert from one measurement to another
+	- Understandably tho, what I'm imagining is probs more complex, so could give the two options
+- I like the tags! Uncertain if different sections for categories and courses is necessary?
+	- The cloud of tags feels like a good way of communicating that you can use multiple I think
+	- Not sure I need both the "add new" and the plus? Or am I being over-minimalist
+- I like the separation into overview, ingredients, directions, notes, photos
+	- Again, do I want photos or just as part of the notes?
+- maybe instead of x-y things, I could do x things +- y
+- Directions
+	- unclear how the directions section is another plain text box, but it does separate things based on lines (should be clearer that it's doing this I think)
+	- I think I would want an option to either format yourself or let it do the formatting for you but be more obvious about it.
+- Don't like the three dot menu that is used exclusively to lead you to an interface that allows you to modify the tags
+	- This screen is also not incredible, just giving u a list, you have to click on a pencil to edit, and it's only there that you can delete
+	- **to do** contrast with the spotify "edit playlist" screen
 
 ### Paprika
 side hamburger menu instead of tabs.
@@ -99,4 +128,3 @@ grocery list
 		- apparently it comes from when u add ingredients from a recipe
 		- wish you could change what recipe something is in from the grocery list screen
 	- same as on recipe list!
-
