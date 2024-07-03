@@ -2,7 +2,7 @@
 title: Final - Problem Space ⁄ Conceptualization
 tags: [CART 310]
 created: 2024-05-31T04:52:27.077Z
-modified: 2024-06-27T05:09:59.959Z
+modified: 2024-06-29T21:48:12.523Z
 ---
 
 # Final - Problem Space ⁄ Conceptualization
@@ -67,12 +67,29 @@ Recipe viewing thots
 - I like that the quantities are bolded, called attention to
 - I like that changing the quantity you're making is in the serving size section of the recipe, makes sense
 	- once again tho, very small button
-	- I don't love it being the most buttony thing on the recipe itself though, I do like the cimplicity of having it be in the toolbar up top
+	- I don't love it being the most buttony thing on the recipe itself though, I do like the simplicity of having it be in the toolbar up top
 - Don't think the photo should be so big, not sure I even want photos tbh?
 	- maybe just in notes, such as what colour something should be at a given point in cooking
 - I don't think I would want a nutrition section?
 - The overall look is a bit bland too tbh, just v directly sticking to android conventions (which look dated now) and I don't personally like orange
-- share button?
+- share and edit buttons do seem v important
+- bottom toolbar
+	- don't know how i feel about buttons at top & toolbar
+	- add to shopping list button
+		- checklist to select which ones to add
+		- select which list to add to
+		- select all and unselect all button next to add button
+	- add meal (planning)
+		- change the name of dish for the plan, autofilled with recipe name
+		- can alter serving size? Does this seem necessary?
+	- print!
+		- Do people use it that much?
+	- favourites button
+		- hmmmm every other button takes you to a menu of some kind...
+	- type size
+	- a 3 button menu with pin, link, add to cookbook, duplicate, delete
+		- convert measurements
+		- I feel like this should be with serving size
 
 Recipe editing/creating thots
 - Don't love that the ingredients are just presented as a plain text list!
@@ -102,6 +119,23 @@ A-ha! browse button leads to an online amalgamation of various sites
 Potentially warming up to the idea of having a starting type, particularly it being outside of app
 I do think an import function is useful
 
+viewing a recipe
+- separate tabs for ingredients and directions
+	- Feels unnecessary because there is quite a bit of space, but I could see it being useful for larger recipes?
+	- I do like prepping ingredients first and then cooking
+	- but if the recipe instructions tell u when to specifically do that stuff, I think this would work far less well
+- checklist for ingredients
+	- above thing does allow these to be bigger and easier to tap out!
+	- They're also struck through here which I think works really well
+- top toolbar aand buttons at bottom again grrr
+	- it's in the coreners tho../
+	- timer!!!
+		- nice that's it integrated and on the page, but also seems wasteful as most people have a clock app
+	- pin button def doesn't seem necessary
+	- grocery list button, meal planning, favourite, edit, 3 dots (duplicate, print, email, delete, share)
+		- meal planning has you select date and type of meal, in two separate steps, which feels like it maybe takes too long and is overly simplistic
+		- print in three dots I think makes sense tho
+		
 creating a new recipe
 - Again, a bit more simple, one screen instead of many tabs!
 - Rating again!
@@ -128,3 +162,26 @@ grocery list
 		- apparently it comes from when u add ingredients from a recipe
 		- wish you could change what recipe something is in from the grocery list screen
 	- same as on recipe list!
+
+Pantry feature to keep track of what ingredients u have...
+- Kind of like this as it could help keep track of what u have...
+	- Easier to figure out what you can make
+	- Can keep track of ingredients you might otherwise forget
+- Does create extra work to have to go in and set that something's out of stock...
+- You can move things in here straight from the shopping list
+- Doesn't get rid of duplicates, which could be annoying
+- Overall I think this seems extraneous and more trouble than it's worth
+
+Meal planner
+- tabs for day, week, month
+- colour coding for different meals
+	- colours pop up in the month as little dots
+	- word is coloured in weekly view
+	- word is not coloured in the day view >:(
+- You can add notes
+	- they appear indistinguishable from recipes aside for italics...
+	- they also have to be in one of the meal categories
+- can add ingredients from a day, week, or even month to the grocery list!
+	- maybe what I most like about the idea of a meal plan
+
+Menus
