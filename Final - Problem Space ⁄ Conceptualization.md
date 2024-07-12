@@ -2,7 +2,7 @@
 title: Final - Problem Space ⁄ Conceptualization
 tags: [CART 310]
 created: 2024-05-31T04:52:27.077Z
-modified: 2024-06-29T21:48:12.523Z
+modified: 2024-07-12T19:53:53.439Z
 ---
 
 # Final - Problem Space ⁄ Conceptualization
@@ -27,9 +27,6 @@ modified: 2024-06-29T21:48:12.523Z
 ## Problem space
 Wanting a little bit of help around the kitchen,
 specifically with regards to:
-- Figuring out what to make
-	- Remembering recipes I've made in the past & enjoyed
-	- cross-referencing with ingredients I have
 - Developing recipes
 	- Keeping track of modifications
 		- substitutions
@@ -38,6 +35,9 @@ specifically with regards to:
 		- brands
 		- Graphs?
 	- Thoughts on different variations
+- Figuring out what to make
+	- Remembering recipes I've made in the past & enjoyed
+	- cross-referencing with ingredients I have
 
 What do I not want?
 - I don't need another place to find recipes, plenty of those already
@@ -90,6 +90,7 @@ Recipe viewing thots
 	- a 3 button menu with pin, link, add to cookbook, duplicate, delete
 		- convert measurements
 		- I feel like this should be with serving size
+- Oh! You can highlight steps instead of checking them off, I kinda like this...
 
 Recipe editing/creating thots
 - Don't love that the ingredients are just presented as a plain text list!
@@ -184,4 +185,41 @@ Meal planner
 - can add ingredients from a day, week, or even month to the grocery list!
 	- maybe what I most like about the idea of a meal plan
 
-Menus
+### BigOven
+Right off the bat, not a fan of the navigation tabs on top being scrollable...
+I feel like if you're going to have tabs, they should only fill one screen
+
+This is just my own little complaint that doesn't really impact my project at all but the front page being so ad-filled is annoying...
+Also where are these other recipes coming from?
+A separate tab for videos is also annoying, why not make it a filter when searching for recipes?
+The editorials section with little tips is nice tho... Makes me think about adding videogamey-style tips to the splash screen...
+
+Viewing recipes
+- Overall interface
+	- tabs again... although this time the main navigation tabs are gone!
+	- I like that the photo fades into the top notification bar
+	- Not sure about the action buttons being in the middle there... (share, fave, bookmark, add photos, print)
+		- I understand *why* it's there, but it feels weird for it not to be at the top next to the three dots menu button or the back button
+- Ingredients
+	- very clear, alternating background colour for each ingredient
+	- Does take up a fair bit of space...
+	- length of recipe and serving size appear only on the ingredients list
+		- not sure I like that the servings are modified with the rolling wheel interface, as in Paprika
+		- I think I like the simple text entry (with the +/- buttons) from Recipe Keeper
+- Directions
+	- Just paragraphs of text, here formatted in numerical steps
+	- This is fine!
+	- I feel like I would appreciate being able to check off steps and having them slightly more separate
+	- Easy to copy-paste text tho!
+- Plus button
+	- actions
+		- v prominent...
+		- add to folder, add note to recipe
+		- add to grocery list
+		- add to meal planner
+	- Don't like that 1/4 actions is adding something to the recipe, instead of adding the recipe to things
+	- Do like big prominent action button at bottom tho
+
+It won't let me type in my own recipe without an account :'(
+
+## More specific conceptualization, ie interface lessons from other apps
