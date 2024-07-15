@@ -2,7 +2,7 @@
 title: Final - Problem Space ⁄ Conceptualization
 tags: [CART 310]
 created: 2024-05-31T04:52:27.077Z
-modified: 2024-07-12T19:53:53.439Z
+modified: 2024-07-15T02:22:41.990Z
 ---
 
 # Final - Problem Space ⁄ Conceptualization
@@ -222,4 +222,128 @@ Viewing recipes
 
 It won't let me type in my own recipe without an account :'(
 
-## More specific conceptualization, ie interface lessons from other apps
+### Overall thots - comparisons
+- General navigation
+	- Hamburger menu and tabs are both pretty good ways of handling general navigation
+		- Former perhaps feels a bit more digital?
+	- Icons definitely works better for tabs though, makes interface feel less busy
+	- If I use tabs for general navigation though, I definitely don't want any other set of tabs
+	- List of recipes
+		- I think I prefer cards to a straight-up list
+		- I understand the need for sorting recipes
+			- Here I like the idea of using tags as opposed to folders or tabs
+		- Maybe have default sorting being last edited / used
+		- Then you can filter with tags (such as, course, cuisine, veggie, main ingredient (such as rice, chicken, pasta, etc.))
+		- Could also import tags
+	- Big button! To add recipes! Could long-press for import (little corner arrow?)
+- Recipe viewing
+	- Recipe photos
+		- These are professionally shot, however, and therefore much prettier than anything a user could attach to their own recipes
+		- The app that doesn't have photos looks a little empty as a result...
+		- Might be worth trying to brainstorm some other visual element to anchor the screen around
+			- I've been considering a notebook look, maybe the presence of a clear style can help
+	- Toolbars (acting on the recipe, but separate from cooking)
+		- Two of the apps have them separate from the back and menu buttons at the top of the screen
+			- I kind of hate these actions being separated needlessly, so I'd rather keep it together
+	- Big button!
+		- I like it!
+			- Feels like a call to action!
+			- Tells you there's something important to do!
+		- The way it's used is kinda bad
+			- Adding the recipe to folders and grocery lists just doesn't feel like th emost important thing when lookign at a recipe
+			- Also a little inconsistent
+		- I could use it as an edit button! Maybe for adding notes? Maybe for seeing versions
+	- Steps and directions
+		- Separate tabs for the ingredients and preparation seems just a little unnecessary to me tbh
+		- I prefer the steps an ingredients beign a little separate
+			- Don't love the paragraphs
+		- Def need to bold quantities, steps too probs
+		- I like the strikethrough for checking things off
+		- Bolding steps could work, but I might keep it as a checklist
+- Recipe editing
+	- Pretty similar across the two apps I was able to use
+	- Text fields!
+	- One has a step by step thing, which I think works well
+		- I would need to integrate my whole versions thing though, which limits the usefulness of that interface I think?
+		- At least with how I've been thinking about doing it (carousel)
+- Other features
+	- The other features that seem most relevant to me are the grocery list and the meal planning.
+	- Definitely not exactly what I wanted to focus on though, so will have to see in interviews how much others would want this
+
+## Ideas on how to create *notebook* look
+
+### Colours
+Definitely an off-white would be best for this
+Maybe a little creamy?
+Maybe a yellowed paper kind of look?
+(It would be so cute if this changed as you used it more!!!)
+It's a bit more *school* and less recipes, but the pink and blue lines from ruled paper could be cute!
+
+### Decoration
+A slightly crumpled or stained texture could be cute!
+Maybe a torn paper outline around buttons or other interface elements?
+Subtle shadows for the illusion of paper on top of other paper
+Holes on the left side? As if in a binder?
+
+## Plans
+Definite features:
+- Recipes
+	- Creating recipes
+		- From scratch
+		- importing from online
+		- importing via photo
+	- editing recipes
+		- tags
+		- ingredients
+		- directions
+		- time estimate
+		- notes
+	- version control
+		- being able to select variations of a recipe
+		- viewing and comparing differences (including notes)
+
+screens needed:
+- Recipes screen (home)
+	- Recipes
+		- Card system, two wide, maybe 5 tall?
+		- I want name, first couple of tags, length of time
+		- Maybe long-press to see ingredients?
+		- Could go further into the card thing and have it be a little more skeuomorphic
+	- Toolbar
+		- sorting by tags
+		- search
+		- three dots menu
+	- big button to add new recipe (maybe)
+		- longpress for different options?
+		- Or big oven's menu that unfolds
+- Viewing a recipe
+	- ingredients
+	- directions
+	- notes
+- Viewing recipe versions
+	- multiple recipes on screen
+	- directly comparing versions
+- Editing recipe
+	- ingredients
+	- directions
+	- notes
+	- view changes
+Maybe features:
+- Grocery list
+- Meal planning
+
+Names???
+- Words
+	- notebook
+	- workbook
+	- sketchbook
+	- draft
+	- developing
+	- testing
+	- test kitchen?
+	- workshop
+	- oven
+	- 
+Recipe workbook
+Recipe notebook
+Recipe oven
