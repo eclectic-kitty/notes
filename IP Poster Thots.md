@@ -1,9 +1,9 @@
 ---
 title: IP Poster Thots
 attachments: [Clipboard_2023-12-06-23-11-02.png, Clipboard_2023-12-06-23-11-03.png, Clipboard_2023-12-06-23-11-03 (2).png, Clipboard_2023-12-06-23-11-04.png, Clipboard_2023-12-06-23-11-05.png, Clipboard_2023-12-06-23-11-06.png]
-tags: [CART 214]
+tags: [CART 214 & 212]
 created: 2023-10-24T18:18:25.458Z
-modified: 2023-12-07T05:08:40.127Z
+modified: 2024-03-28T13:15:01.435Z
 ---
 
 # IP Poster Thots
