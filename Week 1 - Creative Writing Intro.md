@@ -1,11 +1,11 @@
 ---
-title: Week 1
+title: Week 1 - Creative Writing Intro
 tags: [ENGL 224]
 created: 2024-09-06T18:53:32.137Z
-modified: 2024-09-09T21:56:15.561Z
+modified: 2024-09-27T19:44:09.794Z
 ---
 
-# Week 1
+# Week 1 - Creative Writing Intro
 
 ## Warm-up exercises
 I'm creative in how I dress, how I decorate and adorn my self and its many extensions. The hex codes of the colours in this application, the stickers all over my water bottle, pill bottle, laptop, shelves, the pictures on my wall. I'm creative when I'm overflowing, either with energy or emotion, It bursts through my hands in the spacing of pictures or emotions come words. It's painstakingly slow, every character or milimeter considered. 

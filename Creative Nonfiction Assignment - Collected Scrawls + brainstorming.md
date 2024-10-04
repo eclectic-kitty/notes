@@ -2,7 +2,7 @@
 title: Creative Nonfiction Assignment - Collected Scrawls + brainstorming
 tags: [ENGL 224]
 created: 2024-09-27T07:35:34.036Z
-modified: 2024-09-27T16:18:34.005Z
+modified: 2024-09-27T20:47:29.322Z
 ---
 
 # Creative Nonfiction Assignment - Collected Scrawls + brainstorming
@@ -161,3 +161,5 @@ Ultimately perpetuating the cycle?
 - String (4th date, goodbye)
 - Clay ()
 - ink (before, waiting)
+
+

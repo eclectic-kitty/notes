@@ -1,11 +1,11 @@
 ---
-title: Week 3 - Avant-garde, modernism, RUpture Generation
+title: Week 3 - Avant-garde, modernism, Rupture Generation
 tags: [ARTH 398]
 created: 2024-09-23T22:04:45.132Z
-modified: 2024-09-23T23:55:01.630Z
+modified: 2024-09-30T22:02:54.198Z
 ---
 
-# Week 3 - Avant-garde, modernism, RUpture Generation
+# Week 3 - Avant-garde, modernism, Rupture Generation
 
 ## Intro - terremoto del '85
 
