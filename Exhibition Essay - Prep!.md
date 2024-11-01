@@ -2,7 +2,7 @@
 title: Exhibition Essay - Prep!
 tags: [ARTH 398]
 created: 2024-10-20T23:42:59.693Z
-modified: 2024-10-21T21:20:07.786Z
+modified: 2024-10-22T17:48:35.803Z
 ---
 
 # Exhibition Essay - Prep!
@@ -110,3 +110,6 @@ The overall message here seemed to be about how we are part of our homes, about 
 
 ## Extra scribbles
 This initial uncertainty persisted I entered deeper into the space, beginning with the piece Zapatistas, which greeted me with seemingly disconnected mountainous displays of ceramics and hanging cutouts of Zapatista women. 
+
+
+Thus, each audience member is free to make their own way through the exhibition.
