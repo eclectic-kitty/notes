@@ -2,10 +2,12 @@
 title: Poetry Workshop - Decay Poem
 tags: [ENGL 224]
 created: 2024-11-01T11:00:55.640Z
-modified: 2024-11-06T03:39:23.992Z
+modified: 2024-11-06T04:42:21.490Z
 ---
 
 # Poetry Workshop - Decay Poem
+
+title: unrotting
 
 air thick with sugar and oxygen
 meanders along wide streets and through
@@ -27,41 +29,33 @@ flies land in eyes, mouths, wounds,
 joining those soaked in rushing nectar
 mycelium, microbes
 
-*5*  breathing out that stench
-*8* that will soon burst like a razor
+breathe out stench
+that bursts like a razor
 floating up past lace skin
 
-*5* that sloughs off my calf
-*5* tangling in the spokes
-*7* soaking wells of honeyed blood
-
-into asphalt bending space-time //
-threatening //
-*8* to pull my image like taffy //
-// This doesn't make sense here anymore, would be better served in the other ending
-could use the extra two syllables from asphalt
-
-// Also this stuff later could probably be a bit more stilted, short, enjambed, but not as much as winter stuff
+that sloughs off
+my calf, tangling in the spokes, spraying
+wells of honeyed blood into asphalt
 
 but the rest cycles past
-blowing aside flies as
-*4* chlorophyll drips // other word than drips
+blowing aside flies
+chlorophyll fades in sun
 
-*5* smell and orange bloom
+brown and orange blooming
 rain and musk that drift off fallen leaves
-*7* beneath her window on dézéry
+beneath her window on dézéry, where
 
-*11* inside lies a bathtub bursting with offal
+inside lies a bathtub bursting with offal
 swiss army blade in my hand, ripping and tearing 
-past solar heart, prostate, appendix
+past solar heart and prostate, appendix
 
-*7* cast aside disgracefully
-*8* submerged in prescriptivist rage
-*8* superimposing caustic film
+all cast aside disgracefully
+submerged in prescriptivist rage
+superimposing caustic film
 
-*7* bubbles, blisters still the glow 
-my calf, my thigh, my tongue
-*10* all fibers contracting despite me, locked
+a divine punishment inflicted
+my calf & thigh, tongue
+all fibers contracting despite me, locked
 
 eventually, the waves still as 
 muscles ease, climbing out,
@@ -86,7 +80,9 @@ the freezing lock around jasmine’s neck,
 a millstone around mine,
 cradling me down into 
 
-	the mattress,
+      the mattress
+
+
 
 
 
@@ -97,17 +93,11 @@ warm
 
 
 
-
+__
 forever / unrotting / embalmed
 
 a mummy, a fossil, out of time, a ghost, a relic, a
-
-
-
-
-
-
-
+__
 /// Perhaps better saved for later, for decomposition
 offered to blooming carrion
 flowers from the molding mess
@@ -156,6 +146,11 @@ and leaves fall over the scarred streets
 tangling in my hair and flesh
 smothered in tannins
 I strip my projection and sink into
+
+__
+into asphalt bending space-time
+threatening
+to pull my image like taffy
 
 
 Make end more wintery
