@@ -1,11 +1,11 @@
 ---
-title: Characters Assignment
+title: Assignment - Characters
 tags: [ENGL 224]
 created: 2024-11-23T00:38:42.400Z
-modified: 2024-11-23T03:36:29.948Z
+modified: 2024-12-08T23:55:37.332Z
 ---
 
-# Characters Assignment
+# Assignment - Characters
 
 ### eavesdropping
 "Oh, do you think it's like a caramel macchiato?"

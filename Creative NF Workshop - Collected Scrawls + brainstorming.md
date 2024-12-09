@@ -1,11 +1,11 @@
 ---
-title: Creative Nonfiction Assignment - Collected Scrawls + brainstorming
+title: Creative NF Workshop - Collected Scrawls + brainstorming
 tags: [ENGL 224]
 created: 2024-09-27T07:35:34.036Z
-modified: 2024-09-27T20:47:29.322Z
+modified: 2024-12-08T23:56:28.648Z
 ---
 
-# Creative Nonfiction Assignment - Collected Scrawls + brainstorming
+# Creative NF Workshop - Collected Scrawls + brainstorming
 
 ## Writing
 ### First bit

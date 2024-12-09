@@ -1,11 +1,11 @@
 ---
-title: Fiction WS - toxic vamp lesbians - scrawls
+title: Fiction Workshop - toxic vamp lesbians - scrawls
 tags: [ENGL 224]
 created: 2024-11-29T07:04:16.306Z
-modified: 2024-11-29T18:17:29.095Z
+modified: 2024-12-08T23:57:32.377Z
 ---
 
-# Fiction WS - toxic vamp lesbians - scrawls
+# Fiction Workshop - toxic vamp lesbians - scrawls
 
 "I think I still owe you some blood." - line from a journal entry
 

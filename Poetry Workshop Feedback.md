@@ -1,11 +1,11 @@
 ---
-title: Poem Workshop Feedback
+title: Poetry Workshop Feedback
 tags: [ENGL 224]
 created: 2024-11-01T19:36:48.113Z
-modified: 2024-11-01T20:54:53.012Z
+modified: 2024-12-08T23:57:15.366Z
 ---
 
-# Poem Workshop Feedback
+# Poetry Workshop Feedback
 
 ## moon Kabir - Moving Prayer
 
@@ -36,11 +36,11 @@ Summer didn't quite come through, fall kind of overpowered,
 at least initially
 
 love came through for Maia!
-Picke dup on the sex stuff
+Picked up on the sex stuff
 
 for moon, the warmth was out of place, bodies that are freshly dead
 
 maia: thinking about Palestine
 
 moon: was it allegorical or not?
-moon couhldn't tell
+moon couldn't tell

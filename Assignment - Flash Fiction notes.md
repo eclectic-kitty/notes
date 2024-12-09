@@ -1,11 +1,11 @@
 ---
-title: Flash Fiction Notes
+title: Assignment - Flash Fiction notes
 tags: [ENGL 224]
 created: 2024-11-19T23:32:21.278Z
-modified: 2024-11-20T16:53:20.418Z
+modified: 2024-12-08T23:55:54.338Z
 ---
 
-# Flash Fiction Notes
+# Assignment - Flash Fiction notes
 
 To figure out:
 - What did the character do?

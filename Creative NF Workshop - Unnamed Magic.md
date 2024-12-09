@@ -1,12 +1,11 @@
 ---
-title: Unnamed Magic
+title: Creative NF Workshop - Unnamed Magic
 tags: [ENGL 224]
 created: 2024-09-27T15:33:10.814Z
-modified: 2024-09-27T19:43:34.682Z
+modified: 2024-12-08T23:56:24.660Z
 ---
 
-# Unnamed Magic
-### Aurora Becerra Granados
+# Creative NF Workshop - Unnamed Magic
 
 Plum ink pours out of the veins in my wrist and into the page's fibres. It's been weeks since I heard my name fall out of your mouth. 
 "I really did want this."
