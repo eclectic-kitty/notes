@@ -2,10 +2,12 @@
 title: Fiction Workshop - toxic vamp lesbians
 tags: [ENGL 224]
 created: 2024-11-29T17:35:37.806Z
-modified: 2024-11-29T19:50:25.688Z
+modified: 2024-12-12T03:30:33.329Z
 ---
 
 # Fiction Workshop - toxic vamp lesbians
+
+
 
 I stare deep into her eyes, drinking in her hypnotized gaze for what feels like an eternity. I look down at her flushed lips that I know are just so, so soft. There's barely any reaction as I play with her hand in mine. I know she wouldn't be able to make the first move, even if she wanted to, but she's simply far too beautiful when she's like this. We could both stay here forever. 
 

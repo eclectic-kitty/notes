@@ -1,11 +1,11 @@
 ---
-title: Fiction Workshop - toxic vamp lesbians - scrawls
+title: Fiction Workshop - toxic vamp lesbians - thots
 tags: [ENGL 224]
 created: 2024-11-29T07:04:16.306Z
-modified: 2024-12-08T23:57:32.377Z
+modified: 2024-12-12T23:57:18.937Z
 ---
 
-# Fiction Workshop - toxic vamp lesbians - scrawls
+# Fiction Workshop - toxic vamp lesbians - thots
 
 "I think I still owe you some blood." - line from a journal entry
 
@@ -52,7 +52,7 @@ I think I only really have room for one scene, probably them having sex
 
 ### Characters
 - Laura
-	- A shy antisocial 19-year old. 
+	- Shy, antisocial, 21, shut-in, videogame tester 
 	- Likes cute things, favourite activities are being at home, reading. Reads a lot of romance and horror. Studying creative writing.
 	- Tends to engage with things a little obsessively. She doesn't go out of her way to find new things, be adventurous, but if pushed, she lets go of reservations and care and **loses herself easily**
 	- Clingy, subtly demanding
@@ -62,7 +62,7 @@ I think I only really have room for one scene, probably them having sex
 	- She is choosing to be blinded to Vic's pain and boundaries by her self-destructive desires and the pleasure that comes with **oblivion**
 
 - Vic
-	- A recent vampire, 21. Naturally charming, especially since being turned. 
+	- A recent vampire, 23. Naturally charming, especially since being turned. 
 		- The confidence is a bit of a put-on, she's **faking it until she makes it**
 	- Always been a **people pleaser**
 	- Likes to go out to clubs (esp. goth). Studying computer science.
