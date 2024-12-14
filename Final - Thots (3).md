@@ -2,7 +2,7 @@
 title: Final - Thots
 tags: [ENGL 224]
 created: 2024-12-08T23:50:49.612Z
-modified: 2024-12-13T04:36:57.290Z
+modified: 2024-12-13T17:31:13.649Z
 ---
 
 # Final - Thots
@@ -65,6 +65,10 @@ Laura ended up there after a night out with friends, convincing them to continue
 
 Did Vic intend to drain Laura that night?
 Probably, but I think she changes her mind partway through, probably in part due to guilt from thinking of the Victim
+
+Yeah, as they're talking, Vic keeps having flashes back to the Victim, making her change her mind. Meanwhile, Laura decides to invite her back to her place. She sobers up on the way back.
+
+This is my opportunity to write Laura as more self-critical, a little more insecure. She's probably a little drunk here (Nobody likes someone who is too drunk), so I should write in some mood swings probably? Going from very flirty to a little sad and mopey. This is where VIc changes her mind. She decided to bring her back to her house at least, but is at least a little charmed, which continues as they walk
 
 ### Negotiation
 How soon would negotiation happen after Laura finding out?

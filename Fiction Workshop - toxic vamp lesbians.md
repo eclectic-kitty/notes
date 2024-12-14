@@ -2,7 +2,7 @@
 title: Fiction Workshop - toxic vamp lesbians
 tags: [ENGL 224]
 created: 2024-11-29T17:35:37.806Z
-modified: 2024-12-12T03:30:33.329Z
+modified: 2024-12-13T21:21:37.207Z
 ---
 
 # Fiction Workshop - toxic vamp lesbians
@@ -11,7 +11,7 @@ modified: 2024-12-12T03:30:33.329Z
 
 I stare deep into her eyes, drinking in her hypnotized gaze for what feels like an eternity. I look down at her flushed lips that I know are just so, so soft. There's barely any reaction as I play with her hand in mine. I know she wouldn't be able to make the first move, even if she wanted to, but she's simply far too beautiful when she's like this. We could both stay here forever. 
 
-Eventually, the pit in my stomach grows far too heavy, the ringing in my ears. My mouth is on hers in an instant. SHe's warm, so so warm. Her nails are in my back as I suck on her lower lip. I move down to her chin. Then, under, her neck. She shudders, but I know better than to give in right away. I move down towards her collarbone, bathed in the soft light from her bedside lamp.
+Eventually, the pit in my stomach grows far too heavy, the ringing in my ears. My mouth is on hers in an instant. She's warm, so so warm. Her nails are in my back as I suck on her lower lip. I move down to her chin. Then, under, her neck. She shudders, but I know better than to give in right away. I move down towards her collarbone, bathed in the soft light from her bedside lamp.
 
 "Vic, please," she whines.
 "Patience, baby."
