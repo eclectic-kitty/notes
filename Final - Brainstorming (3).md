@@ -2,7 +2,7 @@
 title: Final - Brainstorming
 tags: [ARTH 398]
 created: 2024-12-06T03:22:00.643Z
-modified: 2024-12-14T16:44:46.674Z
+modified: 2024-12-14T20:02:14.407Z
 ---
 
 # Final - Brainstorming
@@ -96,7 +96,7 @@ She often mixes elements form Mexico with those of the places she visits
 
 
 ## Reading notes
-### Medina
+### Medina - Organ Trafficking
 - pg. 11 (pdf): Therefore, the pursuit of shock was replaced by the invention of conceptual forms of mourning, which were not only more subtle, but were in fact more amicable to contemplative reflection...
 - pg. 14: the social and political crisis that authoritarian modernisation and economic integration produced in Mexico in I994-I995 also radicalised artistic practice.
 - pg. 16: the most disturbing element of Teresa Margolles' forensic art does not lay in the horror of the images and objects she creates but in the institutional conditions which make them possible.
@@ -105,7 +105,7 @@ Overall gives me some of the only examples I've found of Margolles' earlier work
 
 Argues that over the course of her career, she's moved from more blindly reactionary stuff, to things that have a political basis and are trying to make a political point about conditions in Mexico
 
-### Root
+### Root - The Body Engraved: Performances and Interventions of Lorena Wolffer
 - pg. 1: And this violence not only marks the body of the individual, but also the body of the nation.
 - pg. 1: “Violence against women.” In what many are pleased to call the post-feminist world, this phrase almost seems to have a dated quality. Most of us are aware of the statistics about domestic violence and rape, as well as the inequalities in pay distribution and the like, but there remains a tendency to detach such statistics from the constellations of beliefs and attitudes that subtend them.
 - pg 1-2: Wolffer is telling us that, at some level, we choose not to see; we prefer a kind of unconsciousness.
@@ -123,13 +123,13 @@ Foucault helping me connect the idea of things being presented in galleries!!!: 
 - 8:28 - 9:35, struggles with the word "work" as she doesn't differentiate between art and intervention
 - 9:35 - 12:55, empieza con una idea, y luego busca el formatio, form follows function ex. how to talk about domestic violence in a public space, led to 'encuesta', led to opportunity to do so at metro stations, metrobus stations, started with thinking where people concregate, esp. heterogeneous groups
 - 13:50, the fundamental part of the work (encuesta) was the interaction between the women amongst each other, and with me
-- 17:10-19:17, not interested in conceptualising as art-therapy, psychomagic, etc. therapy is based on the default state being good, or neutral at worst, therapy then comes in to fix the individual's issue and bring them back to default. Instead,  create new cultural practices, based on performance, what makes a woman is the repetition of the actions that make up a woman. 
+- 17:10-19:17, not interested in conceptualising as art-therapy, psychomagic, etc. therapy is based on the default state being good, or neutral at worst, therapy then comes in to fix the individual's issue and bring them back to default. Instead, creating new cultural practices, based on performance, what makes a woman is the repetition of the actions that make up a woman. 
 
 ### Conceiving a theory for Latin America: Juan Acha's Criticism
 - Foreseeing the radical exchange of information through immaterial works, he called into question hierarchical artistic categories that demote design and the so-called popular arts, and criticized the supposedly natural contradiction between authentic avant-garde artistic attitudes and those of the economically “underdeveloped.” 
 - Crucially, no-objectualismo did not signify a disdain for the object but rather resisted its fetishization
 
-### Teoria y Practica" no objetualistas en america latina
+### Teoria y Practica no objetualistas en america latina
 - There is actually no such thing that is “purely artistic,” either as relation or essence. There has never been a purely artistic, scientific, or technological object. Every human product reflects the mind, the sensibility, and the basic needs of its maker. As such, structures of different kinds coexist within each product and it is immaterial whether the artistic structure or a different structure prevails over the others.
 - Capitalism was largely behind the dual game of promoting the pure art of geometrism on the one hand, and the applied art of design on the other. After all, it is crucial for capitalism to turn every product into a commodity and to replace individual manual labor with industrial-mechanical, waged labor in order to produce surplus value. 
 - Post-modernist non-objectualisms will disappear or be transfigured. But their reason for being is to make us aware of the evils of the mass media and of the goodness of the ephemeral, which is life and the process of change.
@@ -147,13 +147,22 @@ Foucault helping me connect the idea of things being presented in galleries!!!: 
 		- As a result [of artistic intellectualism], artistic activities become intellectual exercises that remain within the bounds of the problems of Western art history and theory—as if Latin American art were simply a lagging sequel to the art produced by advanced countries.
 		- the intellectualists would confine themselves to arguments concerning the superstructure and the decline of both high art and objectual art, and simply imitate foreign actions or trends, given that they have no goals of their own and are not seeking sociological, third-world reasons and advantages based on the real fact of decline. For them, the need for a new aesthetic would be intellectual rather than experiential, a question of superficial imitation rather than of existentialism.
 		- The goal is not to banish ideas or knowledge. On the contrary we should embrace both, as valuable and indispensable tools for studying the infrastructural, psychosocial, and sensory mutations of our third-world reality, a task that requires us to move more freely beyond the history and theory of art, both of which are generally confined to matters pertaining to the superstructure of art.
-	- Subjectualism
+	- Subjectivism
 		- The reverse is true of our artistic subjectivism, which stifles all intellectual curiosity, leaving art at the mercy of our emotional irrationalism.
 		- The alternative at which it arrives is distributionism: to produce high art for the people, or to popularize existing art in its name.
 - [...] the only thing that can fulfill this role is a uniquely third-world, sociological perspective. This solution is by no means a new one. It is in the air we breathe, and artists everywhere are practicing it: they begin with sociological material, and the aesthetic result is a by-product. 
 - we can no longer entertain the idea of a single, fixed, artistic solution—or continue to hierarchically divide the various expressions of our sensorium. The best solution would therefore be to promote aesthetic pluralism, which simply means to bestow a “legal” personality upon the myriad expressions that are a de facto part of any community, so that they can be mixed without predefined hierarchical criteria.
 - [...] we will have to position our aesthetic expressions within the framework of the heterogeneous societies that are subject to constant, radical change at the mental and sensorial levels due to the effects of the technological revolution.
 
+### Fisher - What is Hauntology?
+- pg. 1; What defined this ‘‘hauntological’’ confluence more than anything else was its confrontation with a cultural impasse: the failure of the future. 
+- pg. 1: It meant the acceptance of a situation in which culture would continue without really changing, and where politics was reduced to the administration of an already established (capitalist) system. 
+- pg. 2: Could the only opposition to a culture dominated by what Jameson calls the ‘‘nostalgia mode’’ be a kind of nostalgia for modernism?
+- pg. 3: C. Lethbridge’s idea that haunting may be actual recordings of traumatic events
+- pg. 4: Martin Haglund argues that [...] What is important about the figure of the specter, then, is that it cannot be fully present: it has no being in itself but marks a relation to what is no longer or not yet 
+- pg. 4: The first refers to that which is (in actuality is) no longer, but which is still effective as a virtuality (the traumatic ‘‘compulsion to repeat,’’ a structure that repeats, a fatal pattern). The second refers to that which (in actuality) has not yet happened, but which is already effective in the virtual (an attractor, an anticipation shaping current behavior).
+- pg. 4: The disappearance of space goes alongside the disappearance of time: there are non-times as well as non-places.
+- 
 
 ### Performance Studies, An Introduction
 - 	pg. 10, Performances mark identities, bend time, reshape and adorn the body, and tell stories
@@ -164,15 +173,68 @@ Foucault helping me connect the idea of things being presented in galleries!!!: 
 I'll probably end up with 5 or 6 paragraphs + intro and conclusion per Q
 
 Intro
+Two artists who both began with rather extreme, experiential and emotional approaches to conceptual art via body art, performance art
+With the goal of challenging the political and cultural conditions that has lead to a horrifying amount of femicides in Mexico, both artists went on to develop their work along different paths, which I will analyzing using Acha's no-conceptualismo, as well as hauntology and performance theory
 
-Par. 1: no-objetualismo
+#### Par. 1: no-objetualismo
+- What is it?
+	- Theory developed by Juan Acha
+	- Latin-American-specific
+	- coined in the '70s, amidst new experimental art practices
+	- encompasses various forms of art practice, not simply conceptualism
+	- indeed, wanted to do away with differentiation between applied and pure art
+	- no more fetishism
+- Argues for a synthesis, a dialectical use of both idealism and subjectivism (emotion) in Latin American art, combined with the 
+	- Problem in Latin American art: emulating foreign forms of experimental art
+	- Divorced from the hunger for change in Latin America in diff. ways
+	- Two philosophies/perspectives
+		- Intellectualism
+			- Overly concerned with Western art history and ideology
+			- intellectual exercises about Art, merely following Western world
+			- Still, needed to understand reality of Latin America
+		- Subjectivism
+			- Overly concerned with emotionality, stifles curiosity
+			- Ultimately merely distributes high art
+	- Both necessary, should be melded with a sociological perspective
 
-Par. 2: hauntology (bubbles), machismo, drug war, complacency of US and rich people ()
+#### Par. 2: hauntology (bubbles), machismo, drug war, complacency of US and rich people ()
+- For Margolles, after beginnings, continued towards an approach that could be deemed hauntological in relation to the Mexican theatre of the War on Drugs, then feminicides,
+- Hauntology
+	- theory
+	- first coined by Derrida, then developed by other theorists, esp. Fisher
+	- Concerned with?
+		- aesthetics of haunting in art
+			- recurrence of that which is no longer there
+		- to signify lost promised futures
+			- Fall of the soviet union, socialism
+			- establishment of capitalism
+			- neoliberal promises
+- Margolles' work is full of hauntings, of emptiness, of traces left behind (albeit less of a focus on nostalgia as the works Fisher theorizes about)
+- That is the more subjectivist aspect to her work
+- Drug war
+	- Offspring of conservative policies, originating from the States (Nixon)
+	- Pushed through neoliberal politicians like Fox
+	- Promises of order, justice, ultimately, only worsened the violence
+	- No clear direct link, but femicides have risen alongside drug violence
+		- potentially from trafficking?
+- Margolles exhibits much of her work in 1st world countries, bringing Mexico's ghosts with her, and even making these other places confront their own ghosts
 
-Par. 3: Pista de Baile
+#### Par. 3: Pista de Baile
+- What is it?
+	- Series of photographs
+	- Each showcasing a trans sex worker
+	- Standing on the ruins of nightclub in Juarez
+- Haunting
+	- rubble all around them
+	- negative space
+	- breaking time and space, showing you the nightclub around them through the emptiness left behinf
+- The destruction of these spaces, of the ability to have fun due to drug war violence
 
-Par. -4: introducing differences?
+#### Par. -4: introducing differences?
+- 
 
-Par. 4: performance, activism
+#### Par. 4: performance, activism
+- 
 
-Par. 5: Wolffer
+#### Par. 5: Wolffer
+- 
