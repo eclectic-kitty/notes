@@ -2,7 +2,7 @@
 title: Final - Brainstorming
 tags: [ARTH 398]
 created: 2024-12-06T03:22:00.643Z
-modified: 2024-12-11T20:47:41.435Z
+modified: 2024-12-14T16:44:46.674Z
 ---
 
 # Final - Brainstorming
@@ -116,7 +116,63 @@ happens to “them” [...]
 
 Foucault helping me connect the idea of things being presented in galleries!!!: "Foucault wrote that what takes place at the edge of empire reveals the nature of the empire."
 
+### Lorena Wolffer. 14.04.2015 (interview)
+- 0:00 - 0:55, complex relationship with art world
+- 0:55 - 2:40, importancia de testimonio de primeras personas, trabajor con el cuerpo, questionar el rol de su cuerpo, como cabe dentro de un entorno social, salir del mundo del arte
+- Up to 8:28, talking about how the art system, the government can swallow up attempts at resistance
+- 8:28 - 9:35, struggles with the word "work" as she doesn't differentiate between art and intervention
+- 9:35 - 12:55, empieza con una idea, y luego busca el formatio, form follows function ex. how to talk about domestic violence in a public space, led to 'encuesta', led to opportunity to do so at metro stations, metrobus stations, started with thinking where people concregate, esp. heterogeneous groups
+- 13:50, the fundamental part of the work (encuesta) was the interaction between the women amongst each other, and with me
+- 17:10-19:17, not interested in conceptualising as art-therapy, psychomagic, etc. therapy is based on the default state being good, or neutral at worst, therapy then comes in to fix the individual's issue and bring them back to default. Instead,  create new cultural practices, based on performance, what makes a woman is the repetition of the actions that make up a woman. 
+
+### Conceiving a theory for Latin America: Juan Acha's Criticism
+- Foreseeing the radical exchange of information through immaterial works, he called into question hierarchical artistic categories that demote design and the so-called popular arts, and criticized the supposedly natural contradiction between authentic avant-garde artistic attitudes and those of the economically “underdeveloped.” 
+- Crucially, no-objectualismo did not signify a disdain for the object but rather resisted its fetishization
+
+### Teoria y Practica" no objetualistas en america latina
+- There is actually no such thing that is “purely artistic,” either as relation or essence. There has never been a purely artistic, scientific, or technological object. Every human product reflects the mind, the sensibility, and the basic needs of its maker. As such, structures of different kinds coexist within each product and it is immaterial whether the artistic structure or a different structure prevails over the others.
+- Capitalism was largely behind the dual game of promoting the pure art of geometrism on the one hand, and the applied art of design on the other. After all, it is crucial for capitalism to turn every product into a commodity and to replace individual manual labor with industrial-mechanical, waged labor in order to produce surplus value. 
+- Post-modernist non-objectualisms will disappear or be transfigured. But their reason for being is to make us aware of the evils of the mass media and of the goodness of the ephemeral, which is life and the process of change.
+- The use of the starkest and most concrete realities of space and matter, movement and time, light and color, is another of the goals of postmodernism. Because anti-illusionism is anti-formalist by nature, and as such, non-objectualisms renounce presenting realities in terms of their forms. They renounce this in order to highlight the human actions and concepts of the reality that is presented, referred to, or signified.
+- Even so, the most important aspect of postmodernist non-objectualisms is the fact that it destroys our Renaissance and humanist legacy and induces us to see and value the world in a more realistic and human manner.
+
+### Toward a new artistic problematic in Latin America
+- The main artistic problem in Latin America, in my view, is the non-formulation of concerns specific to us, those arising from our innermost third-world reality, which inherently implies mutation and transience.
+- As we know, the developmentalist aesthetic follows foreign models and essentially boils down to merely attaining the high art of other worlds and popularizing it in our own. [...] a kind of art that is considered inadequate if not inappropriate for our time and its precocious forces, a kind of art that has proven spurious for a third world that is hungry for all manner of change.
+- thot: while the exact perspectives are not present in Wolffer's work, the goal that Acha lays out I believe is
+- Despite the fact that both impel art down the wrong paths, away from our legitimate reality and our self-determination, they are nonetheless necessary insofar as they correct each other, particularly when they begin to interact with a sociological approach to artistic matters.
+	- Intellectualism
+		- Artistic intellectualism advocates the predominance of the thinking man, conversant in the history and theory of art and thus skilled in the handling and expression of ideas.
+		- With unbridled axiological fervor, it wants to establish what art is and, in the very next breath, to stipulate the kind of man and society that wish to produce or consume it.
+		- As a result [of artistic intellectualism], artistic activities become intellectual exercises that remain within the bounds of the problems of Western art history and theory—as if Latin American art were simply a lagging sequel to the art produced by advanced countries.
+		- the intellectualists would confine themselves to arguments concerning the superstructure and the decline of both high art and objectual art, and simply imitate foreign actions or trends, given that they have no goals of their own and are not seeking sociological, third-world reasons and advantages based on the real fact of decline. For them, the need for a new aesthetic would be intellectual rather than experiential, a question of superficial imitation rather than of existentialism.
+		- The goal is not to banish ideas or knowledge. On the contrary we should embrace both, as valuable and indispensable tools for studying the infrastructural, psychosocial, and sensory mutations of our third-world reality, a task that requires us to move more freely beyond the history and theory of art, both of which are generally confined to matters pertaining to the superstructure of art.
+	- Subjectualism
+		- The reverse is true of our artistic subjectivism, which stifles all intellectual curiosity, leaving art at the mercy of our emotional irrationalism.
+		- The alternative at which it arrives is distributionism: to produce high art for the people, or to popularize existing art in its name.
+- [...] the only thing that can fulfill this role is a uniquely third-world, sociological perspective. This solution is by no means a new one. It is in the air we breathe, and artists everywhere are practicing it: they begin with sociological material, and the aesthetic result is a by-product. 
+- we can no longer entertain the idea of a single, fixed, artistic solution—or continue to hierarchically divide the various expressions of our sensorium. The best solution would therefore be to promote aesthetic pluralism, which simply means to bestow a “legal” personality upon the myriad expressions that are a de facto part of any community, so that they can be mixed without predefined hierarchical criteria.
+- [...] we will have to position our aesthetic expressions within the framework of the heterogeneous societies that are subject to constant, radical change at the mental and sensorial levels due to the effects of the technological revolution.
+
+
+### Performance Studies, An Introduction
+- 	pg. 10, Performances mark identities, bend time, reshape and adorn the body, and tell stories
+
 ## Plan
 
 ### Q3
 I'll probably end up with 5 or 6 paragraphs + intro and conclusion per Q
+
+Intro
+
+Par. 1: no-objetualismo
+
+Par. 2: hauntology (bubbles), machismo, drug war, complacency of US and rich people ()
+
+Par. 3: Pista de Baile
+
+Par. -4: introducing differences?
+
+Par. 4: performance, activism
+
+Par. 5: Wolffer
