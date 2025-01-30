@@ -2,7 +2,7 @@
 title: Final - Brainstorming
 tags: [ARTH 398]
 created: 2024-12-06T03:22:00.643Z
-modified: 2024-12-14T20:02:14.407Z
+modified: 2024-12-16T03:15:22.666Z
 ---
 
 # Final - Brainstorming
@@ -122,8 +122,22 @@ Foucault helping me connect the idea of things being presented in galleries!!!: 
 - Up to 8:28, talking about how the art system, the government can swallow up attempts at resistance
 - 8:28 - 9:35, struggles with the word "work" as she doesn't differentiate between art and intervention
 - 9:35 - 12:55, empieza con una idea, y luego busca el formatio, form follows function ex. how to talk about domestic violence in a public space, led to 'encuesta', led to opportunity to do so at metro stations, metrobus stations, started with thinking where people concregate, esp. heterogeneous groups
-- 13:50, the fundamental part of the work (encuesta) was the interaction between the women amongst each other, and with me
+- 13:45-14:07, the fundamental part of the work (encuesta) was the interaction between the women amongst each other, and with me
 - 17:10-19:17, not interested in conceptualising as art-therapy, psychomagic, etc. therapy is based on the default state being good, or neutral at worst, therapy then comes in to fix the individual's issue and bring them back to default. Instead, creating new cultural practices, based on performance, what makes a woman is the repetition of the actions that make up a woman. 
+
+### Performance Studies, An Introduction
+- pg. 10: Performances mark identities, bend time, reshape and adorn the body, and tell stories
+- pg. 259: Once one deems gender and race (plus all other social realities) “performative,” the answer is that these are not naturally determined but built and enforced by means of “performance” in the senses I used to describe that word in Chapter 1.
+- pg. 261: What counts is both how people actually perform their lives and what laws and conventions govern and guide them.
+
+- pg. 267: Similarly, performance art is often the work of an individual using her, his, or their own body, psyche, documents, and experiences.
+- pg. 268: Performance art happened in the streets and
+swimming pools, on roofs and beaches, in storefronts and
+art galleries, and too many elsewheres to list. It was a deep
+democratization of art.
+- pg. 269: As noted, many performance artists work solo, conflat­ing artist and artwork (see Schneider box 1). A recur­ ring theme/action is the construction of identity. The question performance art often asks, sometimes answered, sometimes left hanging, is, “Who is this person doing these actions?”
+- pg. 269: Hanisch asserted that even the most per­sonal situations, when fully understood and analyzed, reveal how society is organized in ways that disempower women; that women need to develop and express self-esteem.
+- pg. 271: Only by recognizing that identity is constructed, not given; contested, not settled; historically and politically evolving, not fixed in “nature,” can personal art be political.
 
 ### Conceiving a theory for Latin America: Juan Acha's Criticism
 - Foreseeing the radical exchange of information through immaterial works, he called into question hierarchical artistic categories that demote design and the so-called popular arts, and criticized the supposedly natural contradiction between authentic avant-garde artistic attitudes and those of the economically “underdeveloped.” 
@@ -162,10 +176,6 @@ Foucault helping me connect the idea of things being presented in galleries!!!: 
 - pg. 4: Martin Haglund argues that [...] What is important about the figure of the specter, then, is that it cannot be fully present: it has no being in itself but marks a relation to what is no longer or not yet 
 - pg. 4: The first refers to that which is (in actuality is) no longer, but which is still effective as a virtuality (the traumatic ‘‘compulsion to repeat,’’ a structure that repeats, a fatal pattern). The second refers to that which (in actuality) has not yet happened, but which is already effective in the virtual (an attractor, an anticipation shaping current behavior).
 - pg. 4: The disappearance of space goes alongside the disappearance of time: there are non-times as well as non-places.
-- 
-
-### Performance Studies, An Introduction
-- 	pg. 10, Performances mark identities, bend time, reshape and adorn the body, and tell stories
 
 ## Plan
 
