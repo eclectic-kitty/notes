@@ -1,7 +1,8 @@
 ---
 title: Class 4 - Jephtha's Daughter (cont.)
+tags: [RELI 298]
 created: 2025-01-23T18:22:08.933Z
-modified: 2025-01-23T18:44:07.347Z
+modified: 2025-02-04T19:00:54.501Z
 ---
 
 # Class 4 - Jephtha's Daughter (cont.)

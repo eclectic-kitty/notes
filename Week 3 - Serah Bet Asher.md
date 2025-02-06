@@ -1,7 +1,8 @@
 ---
 title: Week 3 - Serah Bet Asher
+tags: [RELI 298]
 created: 2025-01-28T18:20:22.672Z
-modified: 2025-01-28T19:12:05.231Z
+modified: 2025-02-04T19:00:42.282Z
 ---
 
 # Week 3 - Serah Bet Asher

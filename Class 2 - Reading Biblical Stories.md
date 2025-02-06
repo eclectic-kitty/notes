@@ -1,10 +1,11 @@
 ---
-title: Week 2 - Reading Biblical Stories
+title: Class 2 - Reading Biblical Stories
+tags: [RELI 298]
 created: 2025-01-16T18:20:04.902Z
-modified: 2025-01-23T18:22:04.606Z
+modified: 2025-02-04T19:15:29.912Z
 ---
 
-# Week 2 - Reading Biblical Stories
+# Class 2 - Reading Biblical Stories
 
 ## Distortion
 When we're looking at women in the bible, we're distorting it
